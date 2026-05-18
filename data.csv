@@ -1,0 +1,1001 @@
+﻿id,nama,email,no_hp,tanggal_daftar,status
+1,Ana Damanik,yoga98@gmail.com,(002) 186-9751,2025-05-05,inactive
+2,Eja Waluyo,wardi64@yahoo.com,(028) 970 6891,2024-10-28,aktive
+3,Mursita Manullang,vprasetya@pt.id,(0227) 298 0605,25-10-25,aktive
+4,Ida Mardhiyah,samosirjatmiko@cv.web.id,+62-0486-046-9030,12/12/2023,inactive
+5,drg. Shakila Usamah,mulyaniwahyu@pt.ponpes.id,+62 (262) 256-9698,2024-03-06,aktive
+"6,""Unggul Andriani, M.Ak"",lnainggolan@perum.ac.id,+62 (063) 338-1203,20/03/2025,inactive"
+7,Jamalia Hartati,jabalsalahudin@pt.org,+62-0672-714-1803,27/07/2025,active
+8,Ratna Halimah,qdongoran@pt.go.id,0802959464,2025-02-05,banned
+9,Cahyono Santoso,umay47@cv.go.id,+62 (0812) 543-7839,06/09/2024,inactive
+"10,""dr. Luluh Nasyidah, M.Ak"",uwaisparamita@perum.ponpes.id,+62 (67) 810 6663,20-02-26,aktive"
+11,Sutan Limar Puspita,candrapratiwi@hotmail.com,+62 (0223) 174 4162,06/10/2024,banned
+12,Budi Maheswara,halimsihombing@ud.id,+62 (35) 778-5288,2025-09-05,aktive
+13,Ir. Vera Nasyiah,puji58@yahoo.com,0823375079,2025-09-22,active
+"14,""Ir. Asirwada Mandala, M.TI."",megantaradarmanto@perum.net,+62-337-318-6879,24/06/2023,Active"
+15,Bakijan Prayoga,kartikanuraini@hotmail.com,+62 (145) 299-0932,29/03/2025,banned
+"16,""Ir. Harjo Namaga, S.I.Kom"",nugrohojefri@gmail.com,+62 (053) 192-6573,30-12-24,aktive"
+17,Olga Aryani,harjaanggraini@hotmail.com,+62 (195) 501 3995,2026-01-05,inactive
+18,Tgk. Anggabaya Gunawan,entengwijaya@ud.ac.id,(0677) 929 0057,07/11/2025,Active
+19,Marsudi Rajata,wardisaragih@perum.mil,+62-072-693-4834,13/06/2025,Active
+20,Lidya Melani,imamnurdiyanti@gmail.com,(0217) 112 4341,29/09/2023,inactive
+21,Farhunnisa Pranowo,baktiantopermadi@gmail.com,+62 (0613) 815 1344,10/11/2023,Active
+22,Kusuma Prasetya,opadmasari@pt.co.id,(0096) 301-3333,2025-10-08,aktive
+23,Rahmat Narpati,ytampubolon@yahoo.com,+62 (80) 451 1480,05/05/2024,banned
+"24,""Ir. Indra Nasyidah, M.Pd"",gpertiwi@pt.ponpes.id,+62 (037) 841 2377,2023-05-29,aktive"
+25,Zizi Januar,unasyidah@hotmail.com,(078) 065 4287,04-06-24,inactive
+"26,""Eva Nasyiah, S.Ked"",nastuti@hotmail.com,+62 (79) 910 4817,2023-02-27,Active"
+27,Yance Sihotang,kasimharyanti@gmail.com,+62-0051-220-2358,14-07-24,active
+28,Padmi Marbun,lukitanurdiyanti@gmail.com,+62 (320) 889 9241,13-01-25,active
+29,Bagiya Saefullah,yuliantigamani@cv.com,+62 (053) 898-2640,2023-11-23,banned
+"30,""Estiono Maheswara, S.E."",latifsihombing@perum.mil.id,+62 (0276) 764 2315,2024-01-03,inactive"
+31,Ghaliyati Gunarto,eutama@hotmail.com,+62 (043) 183 1495,11-04-25,active
+"32,""Drs. Prima Rahimah, S.Sos"",omegantara@hotmail.com,+62-0725-612-4104,31/07/2025,banned"
+33,Pardi Hariyah,ardiantoelma@hotmail.com,+62-737-877-4109,13/01/2024,banned
+34,Hari Mansur,xhardiansyah@hotmail.com,+62-70-243-0106,15-06-23,banned
+35,Prayogo Damanik,luhung56@pd.go.id,(007) 572 1032,01/11/2023,inactive
+36,Maimunah Wijaya,cuwais@cv.ponpes.id,088 226 0895,08/01/2024,active
+"37,""Kiandra Novitasari, M.Ak"",gatot23@pd.int,+62-98-387-1322,23/12/2024,aktive"
+38,Cagak Dongoran,mursininuyainah@cv.or.id,(074) 355 6904,31/10/2025,inactive
+39,Tgk. Embuh Santoso,karimah73@yahoo.com,(066) 068-9303,27-07-25,active
+"40,""Hj. Unjani Farida, S.E.I"",wibowomartaka@perum.web.id,+62 (0939) 696-1673,2025-06-04,Active"
+41,Gasti Prasetyo,siregarvirman@perum.mil.id,+62 (088) 664-6001,2025-02-15,Active
+42,Uli Sihombing,nabila45@yahoo.com,+62 (003) 682-7484,26/03/2025,Active
+"43,""dr. Agus Wastuti, S.Pt"",artawankusumo@yahoo.com,+62 (0855) 238 9496,2025-08-30,banned"
+44,Lili Utami,wulandarigarda@hotmail.com,(046) 750-0570,2023-04-16,active
+45,Hasna Handayani,kadir84@cv.go.id,(0812) 435-1757,14-09-24,Active
+46,Queen Manullang,emasmansur@pt.net.id,+62 (0742) 490 5987,2025-03-19,Active
+"47,""Rachel Narpati, S.Pd"",lalitamangunsong@cv.org,+62-060-602-3415,11-10-24,active"
+"48,""Chandra Anggriawan, M.Kom."",mulyanainggolan@hotmail.com,+62 (0059) 479 8644,24/12/2025,banned"
+49,Dt. Asmadi Aryani,santosoharsanto@ud.ac.id,+62 (95) 742 9555,06-09-23,Active
+50,Jindra Permata,zulkarnainkarya@yahoo.com,+62-13-942-2578,2025-02-17,active
+51,Vicky Nasyidah,dkusmawati@yahoo.com,+62-037-966-8723,21-01-23,active
+52,Drs. Laila Ardianto,jail23@gmail.com,+62 (52) 926-4044,2026-01-21,active
+53,Gilda Haryanto,dirja78@yahoo.com,(0025) 313 3543,04/05/2023,banned
+"54,""Bakti Saptono, S.IP"",wthamrin@pd.ponpes.id,+62-0841-420-8140,12-01-25,active"
+55,Puti Kamila Najmudin,caturangga04@gmail.com,+62-077-675-1761,14-06-25,aktive
+"56,""Rendy Wibowo, S.T."",jasmanisihotang@hotmail.com,(0700) 172-2217,2024-12-10,banned"
+57,Aswani Ramadan,yuni77@pt.co.id,(0951) 613-3556,15/08/2024,inactive
+58,Tomi Suryatmi,vsinaga@cv.com,+62 (11) 850-4730,08-10-23,banned
+59,Anggabaya Sitorus,irmanasyiah@hotmail.com,083 122 1325,22-05-24,Active
+"60,""Jamalia Maulana, S.Psi"",sarahsihombing@cv.org,+62-756-881-5804,2025-12-28,aktive"
+61,Rizki Pangestu,prayitna11@yahoo.com,0823061201,12-04-24,aktive
+"62,""R.M. Bakiman Samosir, S.I.Kom"",rwacana@hotmail.com,(0804) 052 7901,2023-08-02,inactive"
+63,dr. Ika Kusumo,kuswandariendah@cv.desa.id,+62 (90) 289 3184,16-11-25,Active
+64,H. Jaswadi Nugroho,niyagaagustina@pd.ponpes.id,(082) 435 1605,2026-04-11,Active
+65,Ilsa Wijayanti,nugrohotina@perum.gov,+62 (846) 968 3505,29-08-23,banned
+66,Gading Rajasa,karsana71@ud.or.id,080 679 5026,18-01-24,aktive
+67,Elvina Setiawan,gsihombing@yahoo.com,+62 (0009) 942-4260,08/04/2024,inactive
+68,Cemplunk Ardianto,tampubolonophelia@pd.or.id,(047) 559 1249,14/12/2023,banned
+69,Umi Prayoga,dananghartati@hotmail.com,+62 (32) 194-6787,11/01/2026,banned
+"70,""T. Jindra Hariyah, S.I.Kom"",spadmasari@perum.mil.id,+62 (0969) 292-9304,2025-03-15,aktive"
+"71,""R.A. Eva Pradipta, M.Kom."",hwidiastuti@pd.ac.id,+62-025-627-9074,09-08-25,aktive"
+72,Iriana Dabukke,ositompul@yahoo.com,+62 (82) 514 3037,17-04-25,inactive
+"73,""Najib Sihotang, S.Pd"",permatahasim@gmail.com,+62 (768) 202-2489,23/11/2024,active"
+74,Harjo Najmudin,respati77@pt.co.id,+62-722-413-1765,2023-11-04,active
+75,Gading Santoso,bagyasuryono@pt.org,+62-390-039-5346,12/06/2023,banned
+76,Darmana Siregar,cemplunk17@pt.mil,+62 (088) 084 4681,30/07/2024,inactive
+"77,""Taswir Hassanah, S.Gz"",simbolonbagya@perum.ponpes.id,(0341) 649 0542,2024-08-28,active"
+78,Ghaliyati Winarsih,ikinramadan@gmail.com,+62 (0552) 653 4432,25/02/2023,active
+79,Widya Winarsih,surya04@perum.gov,(0809) 499-5535,28-06-24,Active
+80,Kariman Saptono,ikhsanusada@hotmail.com,(0331) 723 4746,2023-07-27,active
+"81,""Sutan Vino Permadi, S.Psi"",maryatigalih@pd.id,0887090071,28/02/2025,Active"
+82,Dr. Clara Pertiwi,wsitumorang@pd.gov,+62-0973-482-1444,2024-02-14,Active
+83,Hj. Ulya Rahimah,jayengnasyiah@cv.ac.id,(067) 579-0462,30/04/2024,aktive
+84,R.A. Syahrini Hutasoit,jaeman54@pd.co.id,(086) 961-7164,01-04-23,inactive
+85,Karman Laksmiwati,wira69@ud.gov,+62 (088) 586-0102,2024-06-05,aktive
+86,Lukman Nainggolan,oniagustina@cv.ponpes.id,+62-62-050-0007,03-01-26,banned
+87,drg. Raina Nababan,hartanapangestu@yahoo.com,086 991 5350,01-08-24,banned
+88,Safina Wastuti,mahdiwijayanti@hotmail.com,0883955921,14/07/2023,banned
+89,Karimah Usamah,wibisonochandra@pt.org,+62-490-815-8155,28/01/2025,Active
+90,Wirda Latupono,yuniargatra@cv.int,+62-743-782-8882,20-04-25,inactive
+91,Zamira Mandasari,karman35@perum.sch.id,(0977) 034-4168,23/11/2023,active
+92,Ir. Kania Hakim,sakuratamba@cv.desa.id,+62-018-454-6308,2025-04-03,active
+93,Ir. Soleh Pratiwi,vanya95@cv.id,+62-002-234-1645,15-02-26,aktive
+94,Ina Halimah,xmegantara@pt.co.id,082 281 5963,2023-08-19,Active
+95,Adiarja Waluyo,lmandala@gmail.com,+62 (39) 969-6817,01/02/2024,aktive
+96,Indah Utama,saptononova@pt.biz.id,+62 (785) 016-3067,10-11-24,aktive
+97,Dina Sudiati,gina54@yahoo.com,+62 (944) 630 6821,2023-09-24,aktive
+98,Putri Sihombing,lazuardiemas@hotmail.com,+62 (025) 662 3576,2024-07-14,inactive
+99,Fitria Nasyidah,iwidodo@gmail.com,(014) 660-7479,11/02/2023,Active
+100,T. Gandewa Simbolon,padmasaribakiadi@gmail.com,+62 (0711) 104 2367,2025-01-28,inactive
+101,Irma Nasyiah,verapurnawati@yahoo.com,+62 (018) 153-3741,2024-12-09,Active
+"102,""R.A. Amalia Nashiruddin, S.Pd"",lembah89@gmail.com,+62 (073) 700 7366,2026-01-10,banned"
+103,R. Mariadi Anggriawan,ipermadi@perum.id,+62 (0733) 075 2023,27/03/2025,aktive
+"104,""Dr. Xanana Ardianto, S.E.I"",prabu78@yahoo.com,+62-430-016-7904,2024-09-17,Active"
+105,Humaira Gunarto,pradanaarta@gmail.com,(0901) 612 8701,12-11-23,inactive
+"106,""Laila Hidayat, M.M."",dian54@hotmail.com,+62 (363) 068-6323,12/08/2025,inactive"
+107,Asmianto Pratama,bgunarto@hotmail.com,+62 (041) 618 9850,2026-01-25,Active
+108,Lasmono Winarno,iswahyudipurwa@hotmail.com,+62-93-171-9726,05/05/2025,Active
+109,Cemani Narpati,najibprayoga@ud.my.id,+62 (0924) 279-3727,23-11-25,banned
+"110,""Drs. Citra Mulyani, S.Farm"",jailsimanjuntak@yahoo.com,+62 (85) 154-5297,26-01-25,Active"
+"111,""drg. Jumari Pangestu, M.Pd"",qlaksita@hotmail.com,+62 (385) 149-3150,13-02-24,Active"
+112,Umaya Simbolon,gara17@yahoo.com,085 992 6762,26/03/2023,banned
+113,Karya Nashiruddin,prasetyobaktiono@perum.go.id,+62 (068) 370 3703,2024-04-08,banned
+114,drg. Fitriani Nugroho,iharyanto@pd.edu,+62 (0152) 022 0894,2023-05-21,inactive
+115,Cut Kamaria Firmansyah,suryatmimujur@perum.ac.id,(0178) 394 0268,14-03-23,inactive
+116,Endah Kuswoyo,qnugroho@hotmail.com,(0932) 888 9350,10-01-23,Active
+"117,""Drs. Tami Situmorang, S.Sos"",murtiiswahyudi@perum.edu,(0504) 548-8989,12/06/2025,banned"
+"118,""Dr. Lili Gunarto, M.M."",nova62@ud.web.id,+62-647-338-2558,01/03/2023,active"
+119,drg. Viktor Hutagalung,uda90@hotmail.com,+62 (72) 645 5060,08/06/2025,Active
+120,Putri Saptono,adityamaheswara@gmail.com,(029) 603-8081,25-08-25,inactive
+"121,""Tania Nuraini, S.Kom"",warsasirait@pd.net.id,+62-745-236-6192,2024-07-27,aktive"
+"122,""Tania Hartati, S.E."",cakrabuana98@gmail.com,(0363) 184 5607,29-10-25,banned"
+123,Dr. Jayeng Prastuti,pancahastuti@cv.mil.id,+62-54-515-3879,2024-12-12,Active
+124,Malika Wijayanti,dariminwinarsih@yahoo.com,(073) 843-1217,30-04-23,inactive
+125,Fitria Najmudin,natsirgandi@hotmail.com,+62-047-164-8638,11-01-23,banned
+126,Citra Kuswoyo,nurul14@yahoo.com,+62 (0226) 205-8588,24/07/2024,banned
+127,Bakiadi Maheswara,rafi77@cv.org,(072) 492-5597,2026-01-05,aktive
+128,Nova Yolanda,ssiregar@pt.mil,+62 (39) 544 4594,08/03/2026,aktive
+"129,""Ajeng Tamba, M.Kom."",jinawi82@ud.net,(0161) 913 3493,12/06/2024,active"
+"130,""Tgk. Fitria Kusumo, S.Kom"",zsaptono@ud.net,+62 (064) 735 9450,2025-11-16,inactive"
+131,Zulfa Yuliarti,kanda05@hotmail.com,0850214352,19-12-23,banned
+"132,""drg. Muhammad Rahmawati, S.H."",gading92@yahoo.com,(0066) 785 3288,21-08-23,active"
+"133,""Ivan Nashiruddin, M.Farm"",simanjuntakgina@cv.com,0887932922,14-03-24,Active"
+134,Ani Firmansyah,febiprakasa@gmail.com,088 843 2780,20/12/2023,inactive
+"135,""Hj. Qori Suryono, S.Gz"",cahyantoprasetya@gmail.com,+62 (080) 021 2714,25/11/2025,active"
+136,Kalim Ramadan,usamahpanca@yahoo.com,(0424) 447-7384,03/10/2025,inactive
+137,Alika Jailani,ysimanjuntak@cv.desa.id,(0460) 636 1217,17-11-23,Active
+138,Wage Rahimah,galar06@yahoo.com,0837046179,17-02-24,banned
+139,Cut Juli Maulana,etampubolon@gmail.com,+62 (092) 158 5999,14-06-25,Active
+"140,""Ir. Wakiman Halim, S.Pt"",lailasaritira@yahoo.com,+62-0650-317-0074,21/07/2023,active"
+141,Lili Astuti,halimahasmuni@hotmail.com,083 105 7647,10-01-25,Active
+142,Indra Wahyuni,ssihotang@ud.gov,+62 (76) 470 0744,04/11/2024,Active
+"143,""Ir. Saka Safitri, S.Kom"",manullanglalita@yahoo.com,+62 (021) 354-3105,03/08/2025,aktive"
+144,Uchita Prastuti,wastuti@yahoo.com,(0373) 489 4641,12/09/2023,banned
+145,Genta Habibi,lwinarno@perum.gov,0880136938,15-04-23,banned
+146,Harjasa Farida,karimah73@yahoo.com,+62 (36) 456 1568,22-08-24,active
+147,Irfan Maulana,jwahyudin@ud.sch.id,+62 (15) 935-8858,21/04/2025,active
+148,Ida Tarihoran,najamsuwarno@ud.ponpes.id,+62 (085) 348 7021,10-01-23,Active
+149,Yuliana Wastuti,rsiregar@pd.biz.id,+62-049-761-4072,11-02-23,banned
+150,Dinda Mandala,wsimbolon@yahoo.com,+62 (0241) 442 1078,19/06/2024,aktive
+"151,""Tgk. Cawuk Laksmiwati, S.Gz"",raisatarihoran@cv.gov,088 272 7994,20/11/2025,aktive"
+"152,""Tgk. Darman Widiastuti, S.Sos"",ruyainah@yahoo.com,+62 (949) 862 8842,16/01/2025,inactive"
+"153,""R. Bakidin Tampubolon, S.Pt"",andrianipaulin@hotmail.com,089 602 7754,2025-11-27,aktive"
+154,Zelda Mayasari,xnajmudin@hotmail.com,0897119156,20/03/2025,Active
+155,Sutan Makara Situmorang,utarihoran@ud.desa.id,+62 (068) 097-4056,05/02/2026,Active
+"156,""Tasnim Padmasari, M.Ak"",ssihotang@ud.gov,+62 (873) 559-3035,21-09-25,banned"
+"157,""Intan Sirait, M.Farm"",nyana36@cv.my.id,+62 (0038) 246-5727,2023-01-09,inactive"
+158,Bagya Mandasari,ojailani@pt.id,(0257) 008-6741,27-11-23,active
+"159,""dr. Devi Hartati, S.E.I"",mustofa40@hotmail.com,(016) 090 2851,2023-08-25,banned"
+160,Juli Yuliarti,tarihorancatur@ud.ponpes.id,+62-47-198-9352,06/04/2026,Active
+161,Yance Mansur,samosirdaruna@cv.org,+62 (610) 547 3937,15-07-25,banned
+"162,""R. Garan Namaga, S.Psi"",bajraginagustina@ud.com,+62 (88) 039-8726,30/12/2023,inactive"
+"163,""Ir. Ade Budiyanto, M.Farm"",taliasinaga@ud.id,+62-582-479-7490,04-03-26,aktive"
+164,Jaka Astuti,ynapitupulu@gmail.com,(0554) 799 8479,2023-08-21,active
+165,Cawuk Saragih,oliviafirgantoro@pd.net,+62-0733-400-8822,01-07-23,inactive
+166,Drs. Darmana Firgantoro,baktiantopermadi@gmail.com,+62-70-088-0077,19-11-24,active
+167,Pia Budiyanto,ade77@cv.desa.id,+62-03-173-4509,2025-02-06,aktive
+168,Rahayu Tampubolon,prasastagandi@gmail.com,(025) 954 8751,2023-12-18,banned
+"169,""T. Bahuraksa Riyanti, M.Ak"",lailalaksita@pt.sch.id,+62 (030) 184-7876,13/07/2024,Active"
+"170,""Puti Vanesa Rajata, S.Farm"",bnamaga@ud.int,+62-81-468-5579,30-12-25,banned"
+171,Tirta Handayani,jarwadi60@yahoo.com,0884333303,18/02/2023,Active
+"172,""Septi Budiman, S.Psi"",gatrasinaga@hotmail.com,088 532 5713,2026-03-12,banned"
+"173,""Arsipatra Firmansyah, S.Gz"",kardimardhiyah@pd.int,+62-019-214-3181,03-02-25,inactive"
+174,Kardi Yuliarti,ikhsanyulianti@gmail.com,+62 (240) 221-8556,15-12-23,banned
+175,Jayadi Wacana,anitamegantara@gmail.com,(095) 227-5854,2023-08-25,aktive
+176,dr. Rahayu Pradana,smandasari@hotmail.com,+62-0086-083-5190,07/06/2024,banned
+177,Cut Violet Adriansyah,esitumorang@gmail.com,+62 (08) 079 4966,2024-08-28,Active
+"178,""Zahra Wibisono, S.E.I"",wrajata@yahoo.com,+62-038-991-6952,2025-01-24,inactive"
+"179,""Dt. Saka Hastuti, S.I.Kom"",wahyudinartanto@yahoo.com,+62 (91) 614 1778,2026-01-10,Active"
+"180,""R.A. Tari Yulianti, S.T."",lyuliarti@yahoo.com,+62 (007) 990 2698,2024-12-28,inactive"
+181,Michelle Winarno,hsafitri@gmail.com,+62-52-971-8168,09-08-24,aktive
+182,Titi Kuswoyo,andrianihimawan@gmail.com,(083) 781-9129,26-01-25,Active
+183,Siti Wibowo,irawandipa@gmail.com,(091) 449 5479,27/04/2023,banned
+184,Karja Sudiati,lsafitri@gmail.com,+62 (206) 929-3189,12/02/2026,banned
+"185,""R. Aurora Aryani, S.E."",mhakim@cv.ponpes.id,+62 (020) 132 2036,02/03/2026,active"
+"186,""Upik Sudiati, S.Psi"",padmasaricawisono@gmail.com,+62 (426) 287 7505,2023-08-06,active"
+187,Prayoga Hutapea,msihombing@hotmail.com,+62-0062-128-4150,2025-01-04,active
+"188,""Puti Gasti Hassanah, M.Pd"",hasna82@cv.int,(0910) 899-3282,21-05-24,aktive"
+"189,""Lurhur Ardianto, M.M."",hakimperkasa@hotmail.com,(086) 333-3586,06-04-26,Active"
+190,Hairyanto Namaga,zkuswandari@ud.or.id,(067) 270 3835,2025-06-22,aktive
+"191,""Caraka Mahendra, S.E."",rafidnovitasari@hotmail.com,(040) 827 7532,06/07/2024,Active"
+192,Ikhsan Mandala,prastutiajiono@pt.int,(089) 975 1389,14-06-25,active
+193,Respati Manullang,iriyanti@yahoo.com,+62 (426) 602-4012,13-12-25,banned
+194,Ikhsan Permadi,chidayanto@ud.int,083 832 9028,2024-04-20,inactive
+195,Atmaja Wahyuni,kuswandariasmuni@yahoo.com,+62 (0114) 339-9204,28-06-25,active
+"196,""R. Puti Hidayat, S.I.Kom"",dirja14@hotmail.com,+62 (0247) 546-3343,20/01/2023,active"
+"197,""Drs. Jessica Wibisono, M.Ak"",enteng40@pt.mil,+62 (86) 398 8818,17-09-24,banned"
+198,Samiah Laksmiwati,vero83@gmail.com,+62 (169) 039-6704,2024-05-05,Active
+"199,""Sutan Maryadi Permata, S.I.Kom"",gandewaprayoga@pt.my.id,(034) 029-3953,2025-08-18,active"
+"200,""Puti Michelle Kurniawan, M.TI."",mulyanainggolan@hotmail.com,+62 (021) 976 0589,17/04/2023,Active"
+201,Danu Utami,susantiokto@yahoo.com,+62-537-554-5060,2023-12-20,inactive
+202,Ade Putra,aslijan54@gmail.com,+62 (043) 983 6684,02/08/2024,banned
+203,Jarwi Damanik,karja85@cv.ponpes.id,(033) 972-9519,2025-02-18,Active
+204,Nova Lailasari,hidayantotania@yahoo.com,+62 (0068) 274-2297,13-06-24,banned
+"205,""R. Calista Lazuardi, S.E."",ulvaoktaviani@ud.ac.id,+62 (01) 864-4392,2025-09-15,active"
+206,Saadat Suryatmi,lantar13@yahoo.com,+62 (0184) 073 7496,10-01-26,banned
+207,Candra Anggraini,uda85@yahoo.com,(0273) 550 5582,13-01-24,banned
+"208,""drg. Gilda Dabukke, S.Gz"",yyulianti@hotmail.com,+62 (0908) 894-8890,01/04/2026,active"
+209,Drs. Putri Nurdiyanti,halima90@pd.sch.id,+62 (568) 382-3529,14/10/2025,inactive
+210,Dr. Septi Latupono,garang28@pt.edu,+62 (0845) 119-5287,2024-02-26,Active
+211,Humaira Purwanti,natsirraditya@pt.mil,0877193709,05/07/2023,Active
+"212,""Clara Situmorang, S.Sos"",martanapradana@gmail.com,(078) 850 9728,2025-07-19,Active"
+"213,""Paulin Purnawati, S.Sos"",ridwan87@yahoo.com,+62 (066) 781 1197,27-03-23,active"
+214,Jarwi Budiyanto,hassanahnajib@pd.net.id,+62-071-868-1984,29/04/2026,inactive
+"215,""Tgk. Arta Sihombing, S.I.Kom"",ophelia14@pd.sch.id,+62-75-343-2069,2025-03-09,active"
+216,Nurul Sihombing,dkurniawan@hotmail.com,(067) 132-1070,2025-04-12,banned
+217,Lukman Narpati,uyainahharsanto@pt.id,+62-037-992-1118,22/09/2024,active
+218,T. Pardi Namaga,kairav73@perum.mil,+62 (015) 227-3143,26-03-23,banned
+219,Imam Andriani,kamila50@ud.mil,+62 (0659) 750-7911,2024-01-20,active
+220,Gangsar Aryani,hakimwani@yahoo.com,088 313 0198,30/11/2024,active
+221,Aurora Safitri,zulaikha85@yahoo.com,082 268 6430,14-03-25,inactive
+"222,""R. Titin Anggraini, S.Psi"",gentamahendra@gmail.com,+62 (012) 210 8551,06-04-25,Active"
+"223,""Cahyanto Puspasari, S.IP"",irwan26@cv.id,+62 (040) 788 9886,25-05-24,aktive"
+224,T. Jabal Pratama,gading92@yahoo.com,+62 (099) 785 1375,03/08/2024,inactive
+"225,""Drs. Elvina Kuswoyo, S.IP"",anggrainimala@hotmail.com,+62-0433-177-4787,01-10-25,aktive"
+226,Galak Widodo,tmarpaung@hotmail.com,+62 (75) 739 4157,21/07/2023,aktive
+227,Ir. Jamil Safitri,jessica92@pt.ponpes.id,+62 (250) 010-4865,2023-04-16,active
+228,Ibun Saputra,harsana68@gmail.com,+62-0154-067-9402,11/02/2024,aktive
+229,Samiah Saragih,dian60@pt.or.id,+62 (17) 158 9971,07/09/2023,banned
+230,Maimunah Pangestu,hlazuardi@cv.gov,0806469098,2023-05-15,Active
+231,Intan Tamba,spermata@hotmail.com,(0041) 368 0662,19/05/2023,inactive
+232,Cawisono Firgantoro,yuliananababan@ud.net.id,(039) 596 6781,29/12/2023,inactive
+233,Darijan Hakim,jaswadi39@ud.mil.id,+62-096-117-3109,19-10-23,banned
+234,Aris Hutagalung,znarpati@yahoo.com,+62 (0935) 697-4945,2026-01-01,banned
+235,Tirtayasa Palastri,pangestupangestu@yahoo.com,+62 (52) 285 2000,27/09/2025,active
+236,Ophelia Sudiati,yuyainah@hotmail.com,+62-59-927-3786,2023-05-20,banned
+"237,""Atma Marbun, M.Ak"",qoriprasetyo@cv.my.id,+62-657-453-2872,06/07/2024,aktive"
+"238,""KH. Gada Yolanda, M.Ak"",leo34@ud.desa.id,+62-81-767-9423,23/09/2024,inactive"
+"239,""Cut Cinthia Suryatmi, M.Ak"",hutasoitkenari@hotmail.com,+62-0604-343-3172,02-04-26,Active"
+240,dr. Tedi Sinaga,purwantiprabawa@gmail.com,(087) 387-2916,24/05/2025,banned
+"241,""Chelsea Uwais, M.M."",karja30@perum.int,+62 (53) 360-7411,2025-01-18,inactive"
+"242,""Puti Ifa Nuraini, S.IP"",bajraginjailani@gmail.com,+62 (39) 378-2875,28/03/2023,inactive"
+243,Kani Kusumo,cemetisamosir@pt.or.id,+62-062-817-9041,2024-11-30,inactive
+244,Ir. Salsabila Kurniawan,kurniapranowo@cv.org,+62 (666) 611-9298,29/04/2023,active
+245,KH. Kayun Hastuti,hastutipadma@ud.or.id,+62 (015) 763-6281,10/01/2025,inactive
+246,KH. Prasetyo Wijayanti,cahyanasyiah@pt.edu,0802687115,2025-08-31,active
+247,Makuta Iswahyudi,uhutapea@hotmail.com,+62 (78) 991-7898,11-12-23,banned
+248,Asirwanda Prakasa,narpatiemil@yahoo.com,+62-838-273-3904,16-02-23,inactive
+"249,""Capa Tamba, M.Pd"",prima52@hotmail.com,+62-092-855-5077,12/11/2024,inactive"
+"250,""Wahyu Rahayu, S.H."",kalimpratiwi@ud.ac.id,(027) 972 3432,07-09-25,Active"
+"251,""Ir. Galih Iswahyudi, M.M."",ganda92@cv.mil,086 595 9763,22-03-24,aktive"
+252,Endah Mandasari,siraityono@hotmail.com,(067) 852-3864,18-08-24,aktive
+"253,""KH. Dono Mustofa, S.Pt"",wuyainah@perum.edu,+62 (873) 924-1499,2024-06-21,banned"
+254,Nyoman Salahudin,nainggolanhasim@pd.my.id,(0792) 636-7380,18/03/2026,active
+255,Salimah Damanik,puspitabagiya@hotmail.com,089 232 5830,2024-04-03,inactive
+256,Agnes Sudiati,ugunawan@yahoo.com,+62-40-414-5479,07/12/2025,active
+257,Azalea Pranowo,karimah09@cv.mil.id,+62-055-883-6516,17/10/2023,Active
+258,Candra Putra,csaptono@pt.net,+62-063-835-7974,2023-04-22,active
+"259,""R. Harimurti Marbun, M.TI."",nataliawaskita@perum.or.id,+62 (915) 995 0915,09/09/2024,inactive"
+260,Kemba Anggraini,danujawinarsih@hotmail.com,(070) 410 8276,12/07/2023,inactive
+"261,""Aris Mulyani, S.Gz"",iswahyudidewi@yahoo.com,+62 (96) 936 8809,25/02/2024,banned"
+262,Yulia Simbolon,opan92@pt.my.id,+62 (504) 444-5109,17-02-24,aktive
+263,Rachel Rahayu,iswahyudicaraka@hotmail.com,(0268) 469-5007,09-02-23,inactive
+"264,""Putu Wahyudin, S.Farm"",putianggriawan@yahoo.com,(009) 188-0810,09-09-24,banned"
+265,Martaka Halimah,gadanasyiah@perum.or.id,+62-902-048-4848,24/02/2026,aktive
+"266,""T. Tugiman Setiawan, S.H."",prayitnapangestu@perum.ponpes.id,+62 (092) 179-9977,17-05-24,inactive"
+"267,""Cut Nadine Mustofa, S.Pd"",manullangluwar@perum.or.id,+62 (0813) 022 3806,12/04/2025,banned"
+268,Fathonah Nasyiah,verapurnawati@yahoo.com,+62 (904) 592 1709,08-02-23,active
+269,Opung Tampubolon,umangunsong@perum.com,(080) 497 6135,2024-12-09,banned
+"270,""Ir. Lala Salahudin, S.I.Kom"",permatanyoman@perum.or.id,0858999433,2024-09-20,active"
+271,Bala Hastuti,ypangestu@perum.net.id,+62 (56) 874-5520,2024-12-16,aktive
+272,Juli Suryono,gina54@yahoo.com,+62-49-565-2534,26-01-23,Active
+273,Dr. Nadine Maheswara,mardhiyahsidiq@hotmail.com,+62 (0347) 166 5961,2024-04-03,banned
+"274,""R. Martaka Halimah, S.Gz"",dastuti@gmail.com,+62 (060) 218-2293,13-03-24,aktive"
+275,Bahuraksa Susanti,nurdiyantiina@hotmail.com,+62-594-093-0883,05/05/2024,inactive
+"276,""Dr. Ella Susanti, S.I.Kom"",dadap94@hotmail.com,+62-42-344-1566,2025-09-20,Active"
+277,Rafid Permata,nurainikamila@pd.biz.id,+62-21-895-5700,21/04/2026,aktive
+278,KH. Prakosa Mardhiyah,hwinarsih@pd.org,+62-46-189-4491,30/09/2025,Active
+279,Ozy Hutasoit,dnuraini@gmail.com,0887453339,28-05-25,inactive
+"280,""Nasrullah Kuswoyo, S.Pt"",hartatiyunita@yahoo.com,081 234 2968,15-11-25,inactive"
+281,Lanang Januar,najibnatsir@hotmail.com,+62-0577-670-1817,2024-05-17,banned
+"282,""Elon Mandasari, S.Farm"",ohassanah@yahoo.com,+62-026-998-2841,11/08/2025,banned"
+"283,""Endra Dongoran, M.Ak"",mulyono28@gmail.com,0891559689,2026-03-05,active"
+284,Salwa Padmasari,haryantoenteng@pt.net.id,+62 (085) 794 0896,12/06/2025,Active
+"285,""Wakiman Nasyidah, S.Ked"",ghaliyati68@yahoo.com,0854951609,21-03-24,banned"
+286,dr. Winda Salahudin,tinasaragih@pd.edu,(081) 777 5654,2024-04-04,inactive
+287,Ellis Haryanto,rahmiiswahyudi@yahoo.com,+62-622-711-7080,05-01-26,inactive
+288,Zaenab Hutapea,puspahutasoit@pt.gov,084 299 1989,31/08/2023,active
+289,Dr. Kasim Uyainah,rahmathutasoit@hotmail.com,(0711) 764 1055,08-05-24,banned
+"290,""Nadine Maheswara, S.T."",rahimahusman@cv.ponpes.id,(048) 726-2972,2025-12-30,active"
+291,Jamal Puspita,oktavianielvina@pd.gov,+62 (0388) 474 0420,01-01-26,Active
+292,dr. Tantri Pangestu,gmaryadi@yahoo.com,082 961 8025,26-06-23,Active
+"293,""Zelaya Kurniawan, S.Pd"",jaeman99@hotmail.com,+62 (0592) 883 1441,24/10/2023,aktive"
+294,Melinda Pratiwi,tarihorancatur@ud.ponpes.id,+62-093-553-4949,2024-11-17,banned
+295,KH. Dipa Samosir,hlestari@hotmail.com,+62-029-194-0832,28-06-25,Active
+296,Harsanto Latupono,azulkarnain@gmail.com,+62 (0918) 359-7745,09-05-24,Active
+297,Iriana Hardiansyah,karta32@pd.ac.id,+62 (0766) 542-5290,18/01/2026,inactive
+298,Dr. Adikara Mahendra,balapati90@cv.gov,+62 (401) 248-9528,23-06-24,banned
+299,Sabar Megantara,zulaikazulfa@gmail.com,+62 (0966) 861-0432,2025-08-15,Active
+300,H. Jail Hardiansyah,purwantomayasari@hotmail.com,+62-35-456-2254,2024-03-31,inactive
+301,Galang Astuti,mandalagarda@yahoo.com,+62 (0233) 903 8267,18-05-24,aktive
+302,Tgk. Restu Puspasari,mustofa61@yahoo.com,+62 (026) 515-5242,17/01/2024,active
+303,Sabrina Riyanti,epuspasari@ud.int,+62-0156-617-7841,08/10/2024,banned
+304,Bagya Hardiansyah,oskar86@gmail.com,+62 (14) 093-6467,22-02-23,Active
+305,Umaya Simanjuntak,balapati39@hotmail.com,+62-239-209-4120,05-02-25,Active
+306,Adhiarja Susanti,jwahyudin@hotmail.com,0845325058,2024-07-07,Active
+307,Rachel Siregar,harimurtipurnawati@hotmail.com,0881756865,14/12/2024,active
+308,Daru Dongoran,kusmawatisiska@hotmail.com,(027) 671-9200,05/09/2023,inactive
+309,Mumpuni Waskita,hlazuardi@cv.gov,+62 (423) 635 3744,12/04/2026,banned
+310,Padmi Wacana,wmansur@yahoo.com,+62 (0369) 248 6867,22/01/2026,active
+"311,""Lidya Waskita, S.H."",manullangajiman@cv.biz.id,+62 (09) 820 8750,2025-03-05,active"
+312,Ratna Hutapea,driyanti@gmail.com,(0675) 285 7934,04/04/2025,inactive
+313,Dr. Salwa Lazuardi,martana90@pd.sch.id,0802991502,01/06/2025,Active
+"314,""Dr. Darsirah Padmasari, S.Psi"",ian54@yahoo.com,+62 (439) 832-5355,19-09-25,active"
+315,Hani Suryono,ziziastuti@ud.id,(084) 107-6391,07-06-24,inactive
+316,Jais Rahayu,solehsihombing@hotmail.com,+62 (0014) 732-6485,05-08-23,active
+317,Wahyu Hidayat,amalia44@perum.com,+62 (00) 197 8501,14/10/2023,active
+318,Luwar Nainggolan,galuhpermadi@gmail.com,+62 (080) 776 1358,2023-11-21,active
+319,Ciaobella Mardhiyah,kprasetyo@ud.gov,+62-080-364-5672,28/06/2023,banned
+320,R. Joko Puspita,aryanikambali@yahoo.com,081 459 1635,19/09/2024,aktive
+321,Teguh Habibi,asirwanda99@gmail.com,(019) 907 2441,2025-08-10,Active
+"322,""Gabriella Pratiwi, S.I.Kom"",dagustina@pd.org,+62 (012) 220 7821,15/11/2024,Active"
+"323,""Farhunnisa Saputra, S.E.I"",julia39@perum.int,+62-43-153-7224,04-04-23,active"
+324,drg. Gaduh Pertiwi,iagustina@perum.desa.id,+62-22-686-2819,09-10-23,active
+325,Cemani Aryani,banararajasa@cv.desa.id,(0795) 268-1042,2025-03-30,aktive
+326,Emas Firgantoro,ade27@yahoo.com,+62 (077) 001 5262,09/10/2025,Active
+327,Wardaya Saptono,wasitafebi@pt.net,+62 (107) 761 5193,09-03-23,active
+328,Febi Setiawan,winarnomariadi@perum.biz.id,+62-506-914-2662,02-07-23,Active
+329,Kayla Fujiati,prasetya03@yahoo.com,+62 (025) 414 3823,2024-09-05,active
+330,Diana Maryadi,patricia11@gmail.com,+62 (37) 701-1968,2024-10-16,banned
+"331,""dr. Maimunah Manullang, S.H."",indahkusumo@gmail.com,(0915) 150 4632,2023-07-19,banned"
+332,Marwata Gunarto,restu04@pt.net.id,+62 (0677) 016-5890,13-05-24,Active
+333,Hasan Halim,pradiptaestiawan@hotmail.com,+62 (486) 781-7454,27/02/2026,active
+334,Kartika Siregar,jpangestu@gmail.com,+62 (94) 634 2393,2025-07-03,Active
+"335,""Zahra Palastri, S.H."",yuliantisakti@cv.go.id,+62 (67) 259-4556,19-02-24,banned"
+336,Vanya Tampubolon,suartinicandrakanta@perum.or.id,+62-12-975-0657,2023-04-30,inactive
+337,Melinda Yulianti,baktiantopermadi@gmail.com,+62 (54) 282 9046,2023-12-23,active
+"338,""Drs. Rahmat Dabukke, S.Sos"",qyulianti@hotmail.com,+62 (946) 305-9978,2023-01-26,inactive"
+"339,""Sutan Irsad Permadi, M.Pd"",hasanahemong@gmail.com,(035) 826 9743,2023-11-06,inactive"
+"340,""H. Lutfan Usamah, S.Pt"",ysihombing@ud.go.id,+62 (0484) 763-4457,04/05/2024,active"
+341,Juli Fujiati,prasetyodina@gmail.com,087 184 8304,13-06-25,banned
+342,Dr. Dimas Waskita,xwastuti@cv.biz.id,(0017) 102-6891,2024-01-06,active
+343,Dr. Putri Mayasari,cpurnawati@perum.id,(0391) 691-3182,16/01/2023,banned
+"344,""R. Mahesa Santoso, S.H."",ipadmasari@perum.web.id,+62 (66) 397-1831,06-11-25,Active"
+"345,""Baktianto Pranowo, S.Pt"",pangestu04@pd.sch.id,(0007) 860 0930,2025-07-10,banned"
+346,Hj. Sari Laksita,irma91@pt.net,+62-832-946-0666,11/03/2025,aktive
+347,Hani Sihombing,zulkarnainwadi@gmail.com,(035) 096 2745,28/04/2023,active
+348,Kartika Irawan,lbudiyanto@perum.com,+62 (0430) 500-6412,2023-04-26,active
+349,Olivia Padmasari,lailawibowo@pt.org,(023) 863-0449,26-11-24,aktive
+350,Kani Prasasta,eoktaviani@pt.desa.id,(0335) 484 1328,03-08-25,Active
+351,Patricia Pradana,yuniardevi@yahoo.com,(0204) 569 7174,2023-03-05,active
+352,Agnes Santoso,riyantielvin@hotmail.com,+62-73-795-2214,24-01-26,banned
+353,Puspa Fujiati,kokousamah@yahoo.com,0896364795,2023-08-13,aktive
+354,Lintang Mandala,ejaagustina@yahoo.com,+62 (033) 081-2370,2025-11-30,active
+355,Yance Dabukke,usman53@gmail.com,+62 (997) 228-4557,06/04/2024,inactive
+356,Uli Suwarno,napitupulumakara@ud.gov,+62 (0795) 133 8120,2025-05-05,banned
+357,Vicky Nuraini,rizki36@hotmail.com,+62-603-012-6760,08-05-23,inactive
+358,Shakila Maryadi,swinarsih@hotmail.com,089 255 4377,23-02-24,aktive
+"359,""Lukman Aryani, S.Farm"",faizahharyanti@pt.ponpes.id,+62 (095) 888-3854,29-07-23,aktive"
+360,Hj. Devi Anggraini,agnesnuraini@ud.biz.id,+62 (24) 589-4023,2026-01-14,Active
+361,Ade Situmorang,hendrihastuti@gmail.com,+62 (447) 682-8524,09/10/2024,inactive
+"362,""Cut Vivi Latupono, S.E.I"",ytarihoran@yahoo.com,+62-073-821-8552,2024-02-13,aktive"
+363,Dt. Raditya Mahendra,cager52@pt.sch.id,0847093790,2024-01-24,aktive
+"364,""Yance Puspita, M.Ak"",wijayayulia@perum.org,+62 (0509) 033-2781,10/04/2024,aktive"
+365,Elisa Pangestu,daruna34@pd.mil.id,+62 (0261) 980 4074,23-05-24,active
+366,Kairav Kuswoyo,prasetyapranawa@ud.int,+62 (0393) 945 2026,2023-11-07,Active
+"367,""KH. Ihsan Firgantoro, S.Psi"",pranowowira@yahoo.com,+62-0217-608-5826,10/11/2025,active"
+368,Aris Iswahyudi,jagaraga24@cv.mil,+62 (24) 765-0298,13/11/2024,inactive
+369,Aditya Hutasoit,ejanuar@yahoo.com,+62-0092-254-8164,18/11/2024,inactive
+"370,""Dt. Manah Kusumo, S.Psi"",dodomegantara@perum.ponpes.id,+62-013-259-2034,18-05-24,aktive"
+371,Jarwa Yuniar,aslijan54@gmail.com,+62 (0712) 187-9555,29/03/2024,inactive
+372,Harjo Widodo,purwantiraden@gmail.com,+62-637-056-7063,13/02/2025,banned
+"373,""Tgk. Farhunnisa Marpaung, M.Ak"",luluhsirait@perum.my.id,+62 (088) 892 1209,23/05/2025,Active"
+"374,""Puti Sadina Kurniawan, S.Psi"",taniawacana@hotmail.com,+62 (11) 330-0671,26-10-24,inactive"
+375,Uli Mahendra,osihombing@pt.org,+62 (13) 133 3011,09/02/2023,inactive
+"376,""Drs. Dadi Oktaviani, M.Ak"",rafiwahyudin@pd.edu,+62-381-498-1723,2023-02-07,inactive"
+377,Mutia Irawan,ziziwahyuni@ud.gov,082 852 7919,07-05-25,inactive
+378,Ayu Hakim,gandi41@hotmail.com,088 592 9531,17/04/2025,inactive
+"379,""Dr. Hamima Sinaga, S.I.Kom"",csirait@yahoo.com,+62-10-568-8053,13/03/2025,inactive"
+"380,""Ir. Hendri Lazuardi, S.Psi"",oharyanti@pt.my.id,+62 (005) 450 9629,24-11-23,aktive"
+"381,""Tgk. Bella Pertiwi, S.Psi"",hasna51@cv.go.id,+62-333-304-4769,28-09-23,inactive"
+382,Vivi Saefullah,xhakim@pt.id,+62 (0386) 123 0841,15/08/2025,active
+383,Harimurti Mayasari,rangga22@pt.edu,082 476 4080,26/11/2023,active
+384,Reksa Maryati,gandikurniawan@hotmail.com,+62 (067) 438 1704,2024-02-27,Active
+385,R. Saiful Gunarto,dalimanwinarsih@pt.gov,0845576412,18/08/2024,banned
+"386,""Cut Dinda Samosir, S.IP"",sabrina87@gmail.com,+62-009-946-1328,06/04/2023,inactive"
+"387,""Tgk. Tantri Januar, S.E."",eramadan@pt.my.id,(006) 723 6723,14-03-26,aktive"
+"388,""Galang Mandala, S.E."",yosefpermata@gmail.com,080 433 3946,19/04/2024,Active"
+"389,""Rahmi Halimah, M.TI."",gadang64@gmail.com,+62-045-369-7352,16/09/2023,banned"
+390,Langgeng Aryani,akarsanatampubolon@pt.sch.id,(0426) 278-6354,01-11-25,banned
+391,Zalindra Budiman,harsanapradipta@pd.biz.id,+62-56-887-9258,2024-02-14,banned
+392,Jamalia Waskita,puspasariamelia@gmail.com,+62 (580) 201-7257,06-02-26,Active
+393,Elisa Winarsih,wasitaharimurti@gmail.com,+62 (0180) 031-1675,31/01/2023,active
+394,Cornelia Palastri,raihanmaryadi@pd.org,+62-048-183-8908,18/02/2023,aktive
+395,Hani Nababan,cawuk25@yahoo.com,+62 (011) 193 0644,30/09/2023,banned
+396,Pangeran Yulianti,awidodo@pd.mil.id,+62-0882-421-6436,22-11-24,inactive
+"397,""R.M. Paiman Situmorang, S.E."",karmankuswoyo@pd.int,+62 (407) 195-6120,2023-08-29,banned"
+398,Galang Pudjiastuti,jtamba@yahoo.com,+62-0434-719-8064,31-03-26,inactive
+399,Wawan Saputra,wasitapangestu@cv.org,+62 (0297) 013-8116,2025-04-10,Active
+400,Waluyo Kusumo,kanda06@hotmail.com,+62 (41) 806 6689,12-01-23,Active
+401,Sari Nasyiah,purwadimaheswara@pd.net.id,+62 (049) 747-2726,30-09-23,banned
+402,R.A. Ratih Handayani,kkusumo@hotmail.com,+62 (0591) 372-9890,2023-04-29,active
+403,Sabrina Sinaga,ikhsanyulianti@gmail.com,+62-050-845-5239,24/03/2025,Active
+"404,""drg. Daruna Siregar, M.Pd"",makuta38@ud.go.id,(0480) 041 2417,21-01-24,Active"
+"405,""Elvina Prabowo, S.E.I"",candrakantasaptono@pt.org,+62 (0774) 363 5468,23-07-23,banned"
+406,Alika Simanjuntak,ana54@cv.mil,+62 (0688) 670-7423,2024-02-21,inactive
+407,Jasmani Pranowo,lazuardidanang@yahoo.com,+62 (0265) 910-4474,19-12-23,active
+"408,""Mila Marpaung, M.Pd"",padmasarinalar@gmail.com,(079) 841-2126,2023-08-22,inactive"
+409,Lalita Hariyah,zulaikhawidiastuti@hotmail.com,+62-73-343-8823,2025-02-09,active
+410,Puput Mulyani,fitrianatsir@hotmail.com,+62 (0041) 166-5954,06-12-25,active
+"411,""Dr. Dwi Rajasa, S.T."",herumelani@perum.gov,+62 (053) 988-5950,11-04-24,Active"
+"412,""Tgk. Aslijan Fujiati, S.Psi"",tiranababan@yahoo.com,+62 (0010) 816-9313,2025-11-18,inactive"
+"413,""R.A. Gasti Putra, M.Pd"",dariminmandasari@pd.go.id,+62-818-601-5518,21-08-24,inactive"
+414,Devi Riyanti,bakiono93@gmail.com,+62 (0431) 343-6312,2024-11-20,aktive
+415,Embuh Budiman,dpratiwi@pd.web.id,+62 (029) 034 8017,14-01-26,aktive
+"416,""Tgk. Gandi Gunawan, S.I.Kom"",zpadmasari@pt.ac.id,(055) 744-0539,2025-04-10,banned"
+"417,""Harsanto Kusmawati, M.Kom."",prabowoqueen@hotmail.com,+62 (0521) 825 7429,2024-08-14,Active"
+418,Lintang Wahyuni,sihotangade@hotmail.com,+62 (0593) 915-3475,05-01-25,banned
+419,Yuni Puspasari,erik03@gmail.com,+62 (0452) 984 6246,05/05/2024,banned
+420,Tugiman Hakim,uwaisparamita@perum.ponpes.id,+62 (855) 268 9680,2024-09-29,Active
+421,Hairyanto Suryono,zulkarnainaurora@ud.desa.id,+62 (268) 056-3247,20/09/2025,active
+"422,""Gabriella Kuswandari, S.Ked"",tiara00@yahoo.com,+62 (74) 892 8394,19-12-24,banned"
+423,H. Mumpuni Suartini,asiregar@pt.net.id,+62-035-996-9015,2025-06-24,aktive
+"424,""Vega Suwarno, S.Pd"",irnanto25@ud.edu,+62 (0710) 378 9206,08/11/2024,aktive"
+425,Agnes Wibisono,bakianto51@yahoo.com,+62 (0382) 171 5479,2025-03-06,banned
+"426,""Ir. Nurul Prastuti, S.IP"",halimlegawa@gmail.com,+62 (509) 689-3928,29/10/2024,inactive"
+427,Vivi Usamah,gaduhwibowo@pd.mil.id,085 492 1940,31/05/2024,active
+"428,""Tari Irawan, S.Kom"",kala59@gmail.com,(018) 215-6362,2023-08-16,active"
+"429,""H. Ikin Lazuardi, S.Kom"",ssetiawan@gmail.com,+62 (0692) 243 8702,20-12-25,banned"
+"430,""Cayadi Hidayat, S.T."",mardhiyahgarda@perum.id,(0371) 149 3578,17/10/2024,inactive"
+431,Elisa Rahayu,tari90@pt.web.id,+62-0324-963-2593,26/08/2025,Active
+"432,""Dimaz Najmudin, S.Gz"",uchita61@yahoo.com,+62 (055) 802-8424,23-10-25,Active"
+433,Tasdik Maheswara,sitorusgenta@hotmail.com,+62 (0932) 804 3479,2023-02-28,aktive
+"434,""Ami Prasasta, M.Kom."",anajmudin@yahoo.com,+62 (038) 951 0000,2025-10-21,aktive"
+435,Ganjaran Astuti,hmardhiyah@perum.web.id,+62 (053) 354-4333,01/02/2025,inactive
+436,Kadir Nasyidah,legawapertiwi@gmail.com,(0369) 146 4021,2025-05-29,Active
+"437,""Tgk. Martana Saefullah, M.Ak"",kanda39@cv.go.id,(0686) 569-1801,29/07/2024,banned"
+438,Dono Mandala,suwarnocitra@ud.org,(073) 646-5531,14/01/2025,banned
+439,R.M. Gara Mustofa,hassanahpranawa@hotmail.com,+62 (10) 799-8409,26-06-23,inactive
+440,Maras Hidayanto,uwaisbanawa@hotmail.com,+62 (107) 432 3621,2024-12-05,inactive
+441,Diana Kusmawati,shaniaadriansyah@perum.sch.id,0825770513,2025-08-02,aktive
+442,Jaswadi Melani,darmajimaulana@cv.web.id,+62 (635) 332-1540,2025-03-18,Active
+443,Rika Siregar,pprasetyo@cv.net,0847816396,2023-07-27,Active
+444,Hj. Titin Prasetya,radika59@pd.org,+62 (77) 303-4217,15-03-25,active
+445,Cici Sitompul,etampubolon@gmail.com,(076) 369 2393,2023-06-01,inactive
+446,Karman Prasetyo,nurdiyantinasim@yahoo.com,+62-0162-452-6823,2024-10-24,banned
+447,Ibrani Saputra,violet75@perum.org,+62 (0444) 809 6125,2023-11-30,Active
+448,R. Devi Wijaya,najmudinlatif@pd.ac.id,+62 (34) 756 8388,24-08-25,Active
+"449,""Tina Simanjuntak, S.IP"",siraitreksa@pt.org,(064) 845-5697,07-02-26,Active"
+450,Nurul Permata,cahyanto16@yahoo.com,+62 (0278) 737-6121,18/01/2024,banned
+451,Uli Tarihoran,kenes68@yahoo.com,+62 (061) 612-0481,01/09/2023,banned
+452,Mahdi Prasetyo,inamaga@hotmail.com,+62-19-782-7583,11-07-23,banned
+453,Padmi Mardhiyah,najam77@hotmail.com,+62 (024) 286 6743,08-03-23,aktive
+454,Lamar Mahendra,saputrahamima@gmail.com,(0927) 284 9536,22-02-25,banned
+455,Lurhur Suryatmi,arsipatra10@yahoo.com,(047) 108-7057,2024-09-15,inactive
+"456,""Tri Pranowo, S.Pt"",balapati39@hotmail.com,082 227 5622,2023-05-02,aktive"
+"457,""Cut Ghaliyati Gunarto, M.Pd"",najmudinibun@yahoo.com,+62 (092) 118-3484,2023-07-24,banned"
+458,Maimunah Mayasari,cemaniuyainah@gmail.com,087 099 0544,29-04-23,inactive
+459,Bakiadi Tampubolon,utamakasim@cv.biz.id,+62 (606) 458 6093,2023-04-30,active
+460,T. Paiman Mangunsong,firmansyahkamaria@pd.gov,089 584 7570,17-03-25,inactive
+"461,""Prabowo Wahyudin, M.M."",ubudiyanto@yahoo.com,+62-31-254-5801,2023-10-09,inactive"
+462,Ida Pratama,tarihorancatur@ud.ponpes.id,(001) 241 6448,25-03-24,aktive
+"463,""Juli Sirait, S.E.I"",naradipranowo@perum.org,0898704850,2024-07-11,Active"
+"464,""Cahyadi Maryadi, S.E."",asuartini@cv.mil.id,+62 (883) 312-8568,2026-01-18,active"
+"465,""Langgeng Mandasari, S.Gz"",mlatupono@ud.gov,+62-0287-357-6432,04-05-24,aktive"
+466,Ajeng Siregar,ikhsanyulianti@gmail.com,089 162 7257,18-07-23,banned
+"467,""Purwadi Padmasari, M.Pd"",mahfud37@hotmail.com,+62-0583-830-0139,2025-05-20,inactive"
+468,Kunthara Permata,danujawinarsih@hotmail.com,+62 (0897) 782-6617,2025-07-05,inactive
+469,Tina Tampubolon,lala98@ud.id,+62-077-272-2608,30-04-25,Active
+470,Puji Melani,gadang55@cv.id,+62-064-571-5491,2025-12-07,Active
+471,Titi Puspita,skuswandari@ud.co.id,+62 (0347) 140 1927,14-04-25,active
+472,Dr. Rizki Gunawan,syolanda@hotmail.com,+62 (929) 373 3047,2024-12-04,Active
+473,H. Bahuraksa Nasyidah,ewijaya@gmail.com,+62 (054) 908 8999,30-05-24,inactive
+"474,""Rahmi Puspasari, M.Pd"",saefullahlabuh@perum.ponpes.id,(019) 561 6679,2025-11-01,aktive"
+475,Bagas Riyanti,hutasoitdevi@gmail.com,082 912 6866,23/08/2023,inactive
+476,Dt. Samsul Jailani,gandewa40@gmail.com,+62-0927-067-7643,08/02/2023,inactive
+477,dr. Puti Prabowo,galang53@cv.id,+62 (032) 069 2551,15-10-24,Active
+"478,""dr. Prayitna Gunarto, S.Psi"",bsalahudin@pt.id,+62-370-172-3254,25/10/2023,aktive"
+479,Nilam Prabowo,firgantoronabila@yahoo.com,+62 (047) 122 6350,04/01/2024,Active
+"480,""Sutan Harjo Pangestu, S.Sos"",napitupulucapa@perum.gov,085 930 5459,2024-02-06,inactive"
+481,R.A. Ciaobella Hutagalung,zulkarnaincawisadi@cv.gov,+62 (091) 329-9204,03/08/2025,banned
+482,Dalima Purnawati,mahesanarpati@hotmail.com,+62 (018) 516 5756,2025-06-23,aktive
+483,Pia Wulandari,kadir66@perum.my.id,+62 (004) 872 9156,2024-08-03,inactive
+"484,""Warta Susanti, S.Pd"",fhutapea@perum.ponpes.id,+62-021-942-3947,09-02-23,inactive"
+485,Jamal Agustina,zamira61@ud.id,+62 (098) 459-9593,14-10-23,Active
+486,R.A. Vanya Zulkarnain,bahuwarnagunarto@gmail.com,+62 (66) 401-0070,14/01/2024,banned
+487,Farhunnisa Kurniawan,wirda70@hotmail.com,+62 (59) 325-3580,01-12-25,banned
+"488,""H. Aslijan Hardiansyah, M.M."",ytamba@hotmail.com,+62-031-668-4240,30/03/2026,aktive"
+"489,""Dr. Kartika Anggraini, S.Kom"",waskitanurul@ud.net.id,+62-906-572-5547,27/10/2023,active"
+490,Hamima Sitompul,siregarharsaya@pt.sch.id,0856368094,15/02/2024,active
+491,Lembah Siregar,tiara48@pd.my.id,+62 (0177) 035-2793,2023-05-28,active
+492,Luluh Mardhiyah,andrianicemplunk@yahoo.com,+62 (014) 514 0082,27-07-23,banned
+493,Danang Jailani,fusamah@pd.net.id,+62-73-973-8896,05-04-23,banned
+494,Puji Saputra,uhidayanto@pd.int,(0323) 200-7066,2025-10-12,inactive
+"495,""Puti Ulva Permadi, S.Kom"",najmudinlatif@pd.ac.id,+62 (966) 631-3869,2023-09-25,active"
+"496,""Martani Nasyidah, S.Sos"",ipurwanti@ud.sch.id,(0104) 447-5609,14-07-25,aktive"
+497,Koko Yolanda,gsudiati@cv.mil,(039) 366 6290,04-08-25,inactive
+498,Tantri Mansur,jpuspita@cv.go.id,+62 (004) 044 8177,2026-03-20,Active
+"499,""Dr. Paris Pradana, S.Pt"",baktiantopermadi@gmail.com,+62 (0719) 100-6233,2023-04-10,Active"
+500,Gilda Hutagalung,emangunsong@perum.mil.id,+62 (227) 842-9930,12/10/2025,Active
+"501,""drg. Vicky Purwanti, S.T."",wardaya87@pd.or.id,(060) 713 0516,19/04/2025,active"
+502,Dr. Kezia Nugroho,elon10@yahoo.com,+62 (27) 759-2821,07/10/2023,Active
+"503,""R.M. Cengkir Suwarno, M.M."",uwaisparamita@perum.ponpes.id,+62 (0678) 864 6067,26/02/2025,banned"
+504,Safina Wasita,ehakim@gmail.com,+62 (64) 177 4488,07/11/2024,aktive
+"505,""Atmaja Najmudin, S.H."",rsaputra@pt.id,(0158) 925-9582,16-02-25,inactive"
+506,Jamal Suryono,jamalmahendra@pt.net.id,(0910) 271 7766,2025-07-07,aktive
+507,Purwadi Setiawan,unovitasari@pt.net,+62-078-522-8597,16/10/2023,inactive
+508,Adika Aryani,hidayatgalak@gmail.com,0875963366,19-02-25,Active
+"509,""Adikara Prakasa, M.Ak"",sihombingrahman@hotmail.com,080 406 8952,14/03/2024,active"
+510,Makuta Halimah,novisaputra@pd.org,+62 (76) 257 1089,25/02/2026,active
+511,Nilam Nasyidah,prasastaanastasia@ud.go.id,087 453 7024,01-06-25,active
+512,Cici Samosir,tira00@ud.net,+62-00-960-6208,2025-05-30,inactive
+513,Fitriani Hartati,winarnomariadi@perum.biz.id,+62 (001) 147-7779,2023-12-24,banned
+514,Maimunah Tampubolon,mardhiyahsidiq@hotmail.com,(0889) 045 0237,24-02-26,active
+515,Tasnim Sitompul,bzulkarnain@pt.co.id,(026) 903-6910,16/07/2024,active
+516,Eluh Siregar,zwidodo@gmail.com,+62 (0449) 385-1220,06/11/2024,aktive
+"517,""drg. Asmianto Tarihoran, S.E."",hardanasudiati@hotmail.com,+62 (0236) 237-9224,22/11/2024,banned"
+518,Salsabila Hutagalung,laswi55@yahoo.com,(0047) 942 6519,2023-06-29,active
+519,Artanto Prasetyo,zhartati@hotmail.com,(038) 005 7597,2024-10-30,aktive
+"520,""Drs. Ratna Mansur, S.Sos"",halimahmelinda@ud.sch.id,+62 (820) 869 5118,01/10/2024,active"
+521,Embuh Puspasari,danujawinarsih@hotmail.com,+62-11-157-0613,08/03/2024,aktive
+"522,""Ir. Yessi Lazuardi, S.E."",upranowo@cv.ac.id,+62 (45) 196-0468,19/07/2024,active"
+523,Taufik Mansur,mulya35@ud.or.id,+62-0241-410-8743,11/10/2024,inactive
+"524,""Yunita Sihombing, M.M."",laila58@ud.ac.id,+62 (51) 171-5951,05-03-23,inactive"
+525,H. Jinawi Mandasari,gamantomarpaung@hotmail.com,+62 (55) 785 8696,18-11-25,banned
+"526,""Drs. Faizah Rajata, S.I.Kom"",iswahyudigading@cv.edu,(062) 676 5545,03/03/2024,inactive"
+527,Kezia Mahendra,anastasiawacana@cv.int,+62 (050) 185-4645,29/07/2024,inactive
+528,Alambana Anggraini,setiawanvicky@yahoo.com,+62-35-191-2715,08/03/2024,active
+"529,""Hani Iswahyudi, S.Pt"",clararahimah@hotmail.com,(043) 322-1521,22-11-25,active"
+530,Hendri Kuswandari,marpaungrespati@hotmail.com,+62 (0185) 532-3450,2023-03-30,banned
+531,Kiandra Sihombing,umaywastuti@hotmail.com,+62 (050) 153-8487,03-06-25,Active
+"532,""Siska Permata, S.T."",radenwidiastuti@perum.com,0829264067,25-01-25,Active"
+533,Galuh Nababan,danu23@pd.go.id,+62 (0805) 361 4194,2024-04-12,Active
+534,Dartono Pranowo,tira00@ud.net,(001) 502 9106,16-07-23,banned
+535,R.M. Emin Tampubolon,mulyanainggolan@hotmail.com,+62 (526) 192-0416,29/09/2025,aktive
+"536,""Kiandra Hutasoit, M.Pd"",rangga89@perum.id,+62 (0221) 651-8411,01/09/2024,banned"
+537,Ilsa Haryanto,etampubolon@gmail.com,(0294) 024-2908,10-02-25,inactive
+538,Ir. Hamima Santoso,bakiono30@hotmail.com,+62-0987-255-3431,20/05/2023,Active
+539,Hilda Utama,candrautama@hotmail.com,(054) 009 8949,15/05/2025,banned
+540,Clara Adriansyah,galiono07@yahoo.com,+62 (595) 622 7224,04/02/2023,inactive
+541,Raina Yulianti,twijaya@ud.co.id,+62 (134) 060-1328,2025-01-06,Active
+542,Puji Wibisono,limar39@hotmail.com,(025) 205-5343,03/12/2023,banned
+543,Zalindra Prasetya,dono78@cv.gov,+62-114-631-3272,2026-04-03,banned
+544,Maida Hutasoit,qkuswoyo@ud.org,084 591 8804,23-12-25,aktive
+545,Baktiono Winarsih,gantarhutagalung@perum.mil.id,+62 (0355) 172 9371,11-07-25,active
+546,Damu Habibi,nmarbun@yahoo.com,+62 (062) 472 2766,03/02/2025,banned
+547,Tgk. Rahayu Kuswoyo,habibiprima@cv.mil.id,+62 (006) 561-1560,04-03-26,Active
+"548,""Mutia Tampubolon, M.Kom."",rendysitompul@cv.mil.id,0853231068,24-10-23,aktive"
+"549,""Sakti Firmansyah, S.Ked"",sari06@gmail.com,+62 (042) 009-0944,2025-11-10,inactive"
+550,Chandra Yuniar,etampubolon@gmail.com,+62 (740) 556-4330,15/10/2024,active
+"551,""R. Jessica Sihombing, S.T."",cbudiyanto@gmail.com,+62 (074) 349 2333,26/04/2025,inactive"
+552,Panji Kurniawan,timbul01@gmail.com,+62 (0995) 815-5682,18-06-23,banned
+553,Yahya Wastuti,nhassanah@cv.ponpes.id,+62 (097) 196 7218,02-09-24,inactive
+"554,""Ani Wahyuni, M.Pd"",latika43@pd.or.id,+62 (0684) 734-7892,2023-12-15,aktive"
+555,Garan Permata,samiahwacana@yahoo.com,+62 (021) 190-9383,2024-12-21,Active
+"556,""T. Ganda Sitompul, M.Farm"",prabowonarpati@ud.desa.id,080 805 9835,28/11/2025,aktive"
+557,Harsaya Susanti,ghaliyatiutama@hotmail.com,(096) 384-8074,26-07-25,aktive
+558,Gilda Saragih,respati77@pt.co.id,+62 (0707) 547-9825,13/05/2024,banned
+"559,""R.M. Karja Saputra, S.Ked"",usyisihotang@hotmail.com,+62-089-978-9293,31/08/2024,aktive"
+560,R. Tira Narpati,makarahandayani@cv.org,+62-0390-716-4320,09-03-23,banned
+"561,""Cahyono Hidayanto, M.Farm"",maryanto07@yahoo.com,+62 (0651) 106 5422,2024-04-27,aktive"
+562,Martani Wahyuni,megantarapanji@yahoo.com,0802497769,2024-04-01,aktive
+563,Titin Wijayanti,lasmantosusanti@yahoo.com,+62 (081) 605 9187,2023-07-17,aktive
+564,Soleh Oktaviani,yhidayanto@hotmail.com,+62-62-401-4737,07/09/2025,Active
+565,Mahmud Nuraini,putrajuli@pt.ac.id,+62-0028-273-8076,06/04/2025,inactive
+566,Asirwanda Winarno,maryatigabriella@cv.web.id,(072) 119 2346,19/01/2026,aktive
+567,Nasim Setiawan,gnurdiyanti@yahoo.com,+62 (702) 352 5025,2026-01-01,banned
+568,Atma Laksita,nasyidahkajen@perum.gov,+62 (0207) 174 7978,01-11-25,banned
+569,Cinta Halimah,corneliamandasari@perum.biz.id,0845846526,2025-05-06,inactive
+"570,""Kairav Pradana, S.Sos"",salahudinvicky@cv.net,+62 (31) 835 7081,2024-12-12,aktive"
+571,Salimah Yulianti,lembah08@pd.id,(096) 314 9972,04/08/2025,inactive
+572,Raisa Widodo,suryatmimujur@perum.ac.id,+62 (0542) 113 5613,2025-09-30,inactive
+573,Yuni Nurdiyanti,kasusrarajasa@hotmail.com,+62 (763) 308 1239,01/11/2025,aktive
+"574,""Hj. Olivia Putra, S.Kom"",xhakim@pt.id,+62-0261-355-3208,2023-12-04,Active"
+575,Bajragin Budiyanto,tamisitompul@hotmail.com,+62 (89) 522 7968,2026-01-02,aktive
+576,Cakrajiya Kusumo,esimbolon@pd.biz.id,0818788449,11/05/2024,active
+"577,""Tantri Handayani, S.Pt"",wwahyuni@gmail.com,(0997) 504 9207,31-03-25,inactive"
+578,Damu Simanjuntak,lukita62@gmail.com,(0686) 844 9609,2023-06-11,active
+579,Hj. Ciaobella Saputra,pranowowira@yahoo.com,+62-591-354-4900,25/11/2025,inactive
+"580,""Dt. Taufik Prabowo, S.E.I"",khidayat@pd.mil.id,+62 (40) 916 2223,04-09-25,Active"
+581,Maya Padmasari,karimah73@yahoo.com,+62 (29) 292-8604,16/02/2024,banned
+582,R.M. Estiono Usamah,kurniapranowo@cv.org,(0852) 300-2123,11-04-25,banned
+583,drg. Gamblang Lailasari,cinta97@gmail.com,+62-0294-378-6485,30-10-24,inactive
+584,Tgk. Ulya Widodo,nashiruddinharsaya@hotmail.com,(0384) 442 0440,14/03/2024,aktive
+585,Drs. Hasna Saptono,patriciasetiawan@perum.id,(0590) 954 4549,17-07-24,inactive
+586,Ida Budiyanto,ibrani34@pd.web.id,(0949) 793-7957,08-08-24,Active
+587,Dr. Citra Thamrin,rahmanpuspita@yahoo.com,+62-085-554-1695,2026-03-15,Active
+588,Puti Dalima Nuraini,megantarakarma@cv.desa.id,(0906) 366-0457,2023-10-09,aktive
+"589,""dr. Gawati Kuswandari, S.E.I"",auroramarbun@yahoo.com,+62 (09) 228 9316,2024-02-25,inactive"
+590,Ajimat Pudjiastuti,kusumasuryono@pt.my.id,+62 (022) 343-8057,31/01/2025,banned
+"591,""Kasusra Saputra, S.Kom"",sakamulyani@perum.biz.id,+62 (060) 862 3577,30-01-26,banned"
+592,Eko Astuti,kurniapranowo@cv.org,(0602) 563-2589,2025-06-30,Active
+"593,""Lili Hutapea, S.Pt"",sinagaputri@gmail.com,+62 (0386) 196-2542,31/05/2023,Active"
+594,R. Eman Saragih,nilamsaptono@perum.mil,+62-0605-455-2347,03-07-25,active
+"595,""Dr. Vera Nugroho, S.I.Kom"",hwacana@ud.int,+62 (894) 518 0544,09/01/2025,banned"
+596,Adinata Kuswoyo,ana12@ud.my.id,+62 (773) 566-3634,2023-11-09,inactive
+597,Samiah Riyanti,jindranapitupulu@ud.mil.id,+62-62-320-1310,19-07-25,banned
+598,Tasnim Jailani,suwarnoamelia@ud.my.id,088 559 9321,2024-03-07,aktive
+599,Rafi Pratama,kacung19@gmail.com,+62 (060) 706-1762,02/10/2025,banned
+600,Asman Widiastuti,opanpertiwi@pt.co.id,+62 (0191) 162 0729,18-07-24,active
+601,Natalia Laksita,widiastutidamar@pt.web.id,+62 (0905) 728 1222,15/04/2026,Active
+602,Tiara Hidayanto,haryantokasusra@perum.my.id,+62 (090) 217 6386,06/02/2024,Active
+603,Fitriani Sihombing,karimah73@yahoo.com,+62 (039) 197 8176,08-01-25,aktive
+604,Bagas Laksita,kawayasalahudin@cv.or.id,+62-671-202-3395,15-09-23,active
+"605,""Galih Sihombing, S.Sos"",endra19@yahoo.com,+62 (0518) 117-2743,14/05/2024,aktive"
+606,Vanya Pradipta,darunahidayat@yahoo.com,(069) 409-6299,15/05/2025,active
+"607,""KH. Gaman Wastuti, S.Sos"",eyuniar@pt.mil.id,+62-699-819-6071,21-04-26,banned"
+608,Diah Laksita,nlazuardi@gmail.com,+62 (415) 768-1043,17-09-23,Active
+609,Gamanto Rajasa,dianausada@perum.net,+62 (0856) 135-2326,17-03-25,banned
+610,Rusman Oktaviani,ozy80@yahoo.com,+62 (259) 864-9248,15/06/2023,aktive
+611,Daliman Wijaya,simanjuntakreza@yahoo.com,+62 (058) 235 0747,19-05-24,active
+"612,""Cut Paulin Uyainah, S.Pd"",karsa93@ud.or.id,+62 (040) 176-3930,06-07-25,Active"
+613,Cakrawangsa Novitasari,damumandala@pd.mil.id,(082) 234-4842,2025-06-06,inactive
+"614,""dr. Cinthia Prayoga, S.Pd"",adiarjayuliarti@cv.sch.id,0828577753,08-05-23,aktive"
+615,Elvina Haryanti,mnugroho@perum.edu,+62 (27) 106-8679,29-11-23,active
+"616,""Ilyas Iswahyudi, M.TI."",taswir01@hotmail.com,(065) 390-5400,22/06/2025,active"
+617,Dt. Caturangga Rahimah,simbolonsalsabila@yahoo.com,+62-071-640-9352,2023-02-15,banned
+"618,""Drs. Lukman Wastuti, S.I.Kom"",usitumorang@gmail.com,081 632 4491,17/03/2025,active"
+"619,""Michelle Mardhiyah, S.Psi"",ian04@gmail.com,(094) 240 0670,29-03-26,inactive"
+"620,""R.A. Elma Sihombing, S.Sos"",dongoranvivi@pt.go.id,(0715) 500 1296,14/04/2025,active"
+621,R. Edi Usamah,xnajmudin@hotmail.com,+62-066-505-1127,2023-03-25,inactive
+622,Eluh Utami,vdabukke@gmail.com,0889991660,06-01-25,banned
+623,Latika Nashiruddin,timbul07@yahoo.com,+62 (0507) 457 6252,16-04-25,inactive
+624,Prasetya Hutagalung,suwarnodaliono@yahoo.com,+62 (0557) 846 0627,29/06/2025,inactive
+625,Yusuf Lailasari,fwahyuni@cv.edu,+62-0810-823-2534,24-06-24,active
+626,Eka Mahendra,tirta07@yahoo.com,+62-746-442-4609,2025-12-07,banned
+627,Kenari Oktaviani,ghanihasanah@hotmail.com,+62 (0637) 631-5230,2026-03-01,aktive
+628,Gina Halimah,hasim94@perum.web.id,(0832) 810-9962,2023-09-18,aktive
+629,Eluh Ramadan,saputraanom@yahoo.com,+62-034-389-0962,16-05-23,banned
+630,Akarsana Mayasari,cinta52@gmail.com,+62 (0455) 419-8155,02-12-24,active
+"631,""Ani Irawan, S.H."",uwidodo@pt.biz.id,080 644 8085,23-11-25,inactive"
+632,Uli Siregar,emelani@gmail.com,(0625) 045-8569,09-08-23,inactive
+633,Wirda Tamba,salman91@ud.go.id,(010) 324 3163,28/02/2026,inactive
+634,Bakianto Puspasari,emong03@perum.sch.id,(049) 613 9384,26-10-23,inactive
+635,Iriana Widodo,osuryono@hotmail.com,(0164) 576 3898,2024-04-09,banned
+636,Kania Irawan,dimazanggraini@pd.co.id,(069) 494-9358,2024-12-21,active
+"637,""Drs. Rachel Pradana, S.T."",hutapeagadang@pd.ac.id,+62 (05) 498 8774,2023-05-16,aktive"
+"638,""Dr. Kuncara Anggraini, S.IP"",fmansur@yahoo.com,(040) 501-7208,11-03-23,active"
+639,Sidiq Nuraini,emasuwais@pd.org,082 896 5626,2023-03-19,Active
+640,Cici Saptono,pertiwirendy@hotmail.com,(074) 249-3090,13-11-24,inactive
+641,Carub Saputra,tira00@ud.net,081 990 0940,12/01/2023,banned
+642,R. Kurnia Halim,onababan@pt.edu,083 432 5008,26-02-26,banned
+643,Raihan Kusumo,lmaulana@ud.com,(0038) 813 7102,26/02/2023,aktive
+644,Cahyadi Saragih,zalindra64@cv.mil,(0289) 802-3510,16-07-23,aktive
+645,Bala Rahmawati,gina54@yahoo.com,+62 (353) 385-8167,02/02/2024,banned
+646,Jais Lestari,balapati76@hotmail.com,+62-79-793-7235,08/01/2024,inactive
+647,Diah Damanik,ikhsan72@ud.sch.id,+62-0285-611-3920,21-12-25,Active
+648,Ir. Agnes Wahyuni,lili45@pd.or.id,(077) 116 5546,01/06/2025,inactive
+649,Jasmin Rajata,irma25@ud.int,(0777) 147 2741,2024-09-04,inactive
+650,Cinthia Mahendra,tambagalak@pt.int,085 946 2670,2024-03-05,aktive
+651,Kunthara Suwarno,ihsan38@yahoo.com,+62 (0771) 554-8393,2024-12-03,banned
+"652,""R. Embuh Wibowo, M.Pd"",ewinarsih@yahoo.com,+62 (18) 253-6933,2024-12-04,active"
+653,Cahyanto Saputra,dpratiwi@yahoo.com,(004) 200 4106,2023-09-28,Active
+654,Indah Simanjuntak,lsiregar@hotmail.com,+62 (041) 908-3092,05-03-25,aktive
+655,Dr. Kartika Palastri,nainggolankeisha@yahoo.com,(0590) 254-2391,01-05-24,active
+656,Puput Ramadan,zulkarnainlanang@hotmail.com,+62 (0346) 450-9871,03/07/2025,active
+657,Marsudi Zulaika,abyasajailani@pt.mil,0806993934,09-02-24,banned
+"658,""Usyi Saptono, S.I.Kom"",bbudiman@pt.net.id,082 203 3121,20-03-26,inactive"
+"659,""Mariadi Lailasari, S.Sos"",twasita@cv.org,(0796) 968 0780,05-12-24,banned"
+660,Karsa Prakasa,buwais@cv.ac.id,(059) 634-1323,12-12-24,aktive
+"661,""Ellis Sinaga, S.Kom"",pranowowira@yahoo.com,+62-85-674-0466,2023-04-25,banned"
+662,Iriana Mangunsong,mansurrahayu@ud.id,(029) 158-6989,18/09/2024,Active
+"663,""drg. Wage Rahmawati, S.Pd"",jadriansyah@pt.ac.id,+62-18-173-9021,20-03-23,Active"
+664,Nyana Permadi,ciswahyudi@cv.mil.id,(0410) 691-1815,2023-01-21,Active
+665,Rina Wijaya,kmaheswara@yahoo.com,+62 (060) 590 6138,30/01/2024,banned
+666,Fathonah Wasita,jailanienteng@yahoo.com,+62-698-580-0410,27/10/2023,banned
+667,Elisa Zulaika,wirasuryono@perum.net,+62 (081) 218-3039,19/01/2026,active
+668,Dr. Cahyanto Permadi,wardaya16@pt.or.id,+62 (058) 269-1924,28-05-24,Active
+"669,""drg. Ira Siregar, M.Kom."",galuh13@pd.desa.id,(0818) 653-3965,05/03/2026,active"
+670,dr. Jindra Dabukke,ssaputra@hotmail.com,+62-37-645-8540,22-01-26,inactive
+671,Dt. Adika Wibisono,gading92@yahoo.com,084 267 0226,2023-06-21,aktive
+672,Latif Pradipta,cahyantolaksmiwati@hotmail.com,+62 (060) 877 7805,2023-08-16,Active
+"673,""R. Hamima Mayasari, S.T."",bbudiyanto@pd.mil,084 887 8646,2025-08-16,active"
+"674,""Nadia Novitasari, S.Kom"",widodomelinda@ud.mil,+62 (0627) 623 5123,20-07-24,banned"
+675,Gada Yuniar,susantipurwanto@pd.desa.id,+62 (964) 797-7865,2023-09-04,Active
+"676,""dr. Restu Irawan, M.TI."",victoria69@gmail.com,(051) 324-3301,30-01-23,banned"
+677,Tgk. Tami Najmudin,dariminprasetya@cv.id,+62 (044) 364-6303,28-06-23,aktive
+678,Carla Novitasari,prabu70@cv.mil,+62 (0873) 754 8150,2025-11-23,aktive
+679,Kurnia Adriansyah,gatot28@hotmail.com,+62-059-134-4314,2023-07-10,active
+680,Karya Agustina,oprastuti@cv.net,(0562) 223-1209,07/12/2024,active
+681,Puspa Kusmawati,titin29@yahoo.com,0879666891,21/12/2023,banned
+682,Bancar Hariyah,psaputra@cv.sch.id,+62-73-025-5025,2025-12-11,Active
+683,Lantar Waluyo,danuja20@perum.mil,+62-000-950-9887,07-11-23,inactive
+684,Jelita Najmudin,kiandrathamrin@ud.my.id,+62 (006) 252-9910,2024-12-01,aktive
+"685,""Diana Mangunsong, S.Farm"",tariwulandari@yahoo.com,+62 (0068) 387 7132,2024-08-30,aktive"
+686,Cut Septi Latupono,lailasarinabila@yahoo.com,(0654) 598 8863,27-06-24,aktive
+687,Fitriani Halim,sarahhutapea@cv.co.id,+62 (13) 144 3090,19-05-23,inactive
+"688,""Mutia Hassanah, S.Farm"",bsamosir@ud.mil,+62 (0392) 532 9670,08/02/2023,aktive"
+689,Slamet Mustofa,znashiruddin@gmail.com,+62 (0920) 610-9946,24-09-24,banned
+"690,""T. Jumadi Novitasari, M.TI."",tarihorancatur@ud.ponpes.id,+62-46-281-2662,20-08-25,aktive"
+691,dr. Cici Mansur,marsito83@pd.mil,085 428 3176,20/03/2025,active
+692,Puti Vivi Setiawan,aisyah97@hotmail.com,+62-0474-372-1231,31-01-26,Active
+"693,""Ir. Umi Nababan, M.M."",toktaviani@ud.net.id,+62 (87) 072-5943,2023-05-13,banned"
+"694,""Hilda Hastuti, S.Pt"",arsipatra42@pt.co.id,(0883) 334 1711,09-08-23,active"
+695,Dina Maheswara,ositompul@cv.ac.id,+62 (0319) 833 7126,2024-06-30,inactive
+696,Teddy Sitompul,gunartofaizah@gmail.com,(0203) 972-2914,2023-03-05,banned
+697,Rachel Mardhiyah,soleh62@hotmail.com,+62 (096) 337-9682,12/05/2023,aktive
+698,Tirta Mardhiyah,usadadamu@yahoo.com,+62-0946-728-3430,24-05-23,Active
+699,Jaya Irawan,taufanwidodo@pt.net,+62 (17) 747-1575,12-09-25,inactive
+700,Tedi Widiastuti,emil54@pt.net,+62-075-615-0302,10-12-24,active
+"701,""Galur Setiawan, S.Pd"",ridwan06@hotmail.com,+62 (268) 891-0151,23-03-26,Active"
+702,Hj. Yani Wahyudin,tarizulaika@gmail.com,+62 (099) 026-1945,22/09/2025,Active
+703,Salman Ramadan,karimah73@yahoo.com,(0196) 569-8920,05-04-23,Active
+704,Pangeran Putra,fnashiruddin@gmail.com,+62 (36) 427 4809,30-10-23,Active
+705,dr. Arsipatra Najmudin,farahsirait@yahoo.com,+62 (0893) 704 0511,2024-01-15,Active
+706,Kayun Utami,okto84@hotmail.com,(0961) 127 7165,2023-01-22,inactive
+707,Kayla Namaga,oktawasita@hotmail.com,+62-0385-747-8694,15-02-25,inactive
+708,Adinata Mahendra,cindy34@yahoo.com,+62 (064) 931-6013,15/05/2024,active
+709,Dr. Karna Mahendra,prabumangunsong@pd.com,+62 (0810) 371 0909,2023-02-22,Active
+"710,""Viman Mangunsong, S.E.I"",argonoandriani@pd.edu,+62-264-830-9729,2025-04-27,active"
+711,Latika Hutagalung,jwibisono@gmail.com,+62-887-794-9357,2024-01-09,active
+"712,""R. Cakrawala Farida, S.Pd"",zpradana@hotmail.com,+62 (766) 220 2883,05-04-23,aktive"
+"713,""Agnes Latupono, S.Pt"",xpurnawati@pd.org,088 365 9410,02/04/2026,Active"
+714,Jaiman Maryati,niyaga42@yahoo.com,+62 (0414) 173-4113,27/12/2025,active
+715,Liman Prastuti,lembahthamrin@cv.mil.id,+62-36-904-6091,08/03/2023,banned
+716,Elisa Mulyani,galiono75@perum.net,+62 (443) 170-5909,07-01-25,Active
+"717,""Ophelia Utama, S.IP"",widiastutikezia@yahoo.com,+62-0765-722-3378,19-01-25,inactive"
+718,Drs. Farhunnisa Permata,karma40@ud.int,+62 (027) 231 6201,01/07/2024,active
+"719,""Yuni Mandasari, M.Ak"",nasyiahkamaria@hotmail.com,+62-79-238-5373,05-08-23,aktive"
+"720,""Salwa Handayani, S.Pt"",malikahassanah@ud.org,+62-048-376-3003,02-03-26,Active"
+"721,""drg. Eka Yulianti, S.E."",fpermata@pt.my.id,089 685 3575,2025-09-27,Active"
+"722,""Jamalia Winarsih, S.E.I"",hasanmansur@hotmail.com,+62-0530-625-2847,06/03/2026,Active"
+723,Prasetyo Rajata,sakurathamrin@pd.web.id,+62-0555-377-9159,2023-08-25,active
+724,Nurul Wijayanti,anomlestari@cv.go.id,+62-337-995-6129,10/04/2023,active
+725,Makara Tamba,suryawijaya@gmail.com,+62-055-182-0561,11-12-24,banned
+726,R.M. Gandi Palastri,prastutielma@perum.desa.id,+62 (082) 954-1267,14-08-24,inactive
+"727,""R.M. Cakrawangsa Padmasari, M.Kom."",sadinahalim@perum.sch.id,+62 (35) 784-2177,29/11/2023,active"
+728,dr. Gilda Yulianti,yuliartimalika@perum.id,0808733447,2023-10-23,active
+729,drg. Suci Puspita,satyasiregar@yahoo.com,084 498 3875,20-10-23,inactive
+730,Mala Thamrin,irfan15@pd.com,+62-0001-252-4028,2024-03-11,Active
+731,Humaira Usamah,ewijayanti@hotmail.com,+62-664-082-2376,2024-11-19,active
+732,Aisyah Sinaga,ani43@pt.net.id,+62 (88) 682 8169,13/11/2025,Active
+733,Rahayu Mulyani,wira98@cv.web.id,+62-044-033-2612,28/12/2024,banned
+734,Siti Suryatmi,haryantomursita@gmail.com,+62 (095) 603 1481,2023-09-30,banned
+735,Puti Aisyah Utami,tambaclara@pd.ac.id,+62 (388) 605-6871,21-07-24,aktive
+736,Martani Saragih,lembahsiregar@perum.id,(0995) 249 5036,19-05-23,Active
+737,Aurora Siregar,tampubolondaruna@yahoo.com,+62-0539-364-9442,27-12-25,banned
+738,Carla Hutapea,marsito12@gmail.com,+62 (0881) 764-6641,10/04/2025,aktive
+739,Cawisono Laksita,mahendraellis@gmail.com,+62 (525) 715 3162,2025-01-02,active
+"740,""Puti Ellis Suryatmi, S.Sos"",saputramitra@hotmail.com,+62 (730) 707-3604,11-03-25,inactive"
+741,Garang Zulaika,diahnashiruddin@hotmail.com,+62-11-973-2392,18-05-23,aktive
+742,Cahyo Sihombing,irwanbudiyanto@ud.ponpes.id,+62 (498) 075-8107,14/04/2025,Active
+"743,""Ghani Yuliarti, S.Pd"",rahmanmardhiyah@yahoo.com,(092) 359-9072,10-02-26,aktive"
+"744,""Tgk. Puti Anggriawan, M.Kom."",tpertiwi@perum.id,080 402 6040,19-10-25,inactive"
+745,Rafi Nuraini,nataliahalimah@ud.desa.id,(0463) 165 0137,26/06/2025,inactive
+746,Daryani Prasasta,nasyidahtiara@yahoo.com,+62 (083) 904 4508,31/01/2026,inactive
+747,R. Harimurti Siregar,kuswoyoelon@hotmail.com,+62 (048) 910-3301,06-01-25,aktive
+748,Karen Saptono,simon77@pt.edu,(062) 321-6066,13-09-23,Active
+749,Devi Suryatmi,nashiruddinkacung@hotmail.com,+62 (223) 585 3883,2025-12-20,inactive
+"750,""R. Kezia Iswahyudi, S.T."",ebudiyanto@perum.id,+62 (671) 227 4408,17/03/2025,active"
+751,Sutan Galuh Safitri,pardi62@ud.com,+62 (18) 740 4796,20-12-24,aktive
+752,Yuni Sitompul,maryatikeisha@cv.id,+62 (089) 742 9917,2025-02-19,Active
+753,Edi Damanik,adenashiruddin@yahoo.com,(0241) 787 7304,27/09/2023,active
+754,Jamil Kuswandari,leo55@cv.net.id,+62 (020) 464-5268,10-07-24,aktive
+755,Mustika Hartati,gatotmaulana@gmail.com,+62-073-337-4280,16/06/2023,Active
+756,Ridwan Permadi,hartatiadikara@ud.id,(0086) 359 0773,17-05-23,inactive
+"757,""Malik Sinaga, S.Sos"",hilda46@gmail.com,+62 (055) 042 4537,05/04/2025,active"
+758,Pangeran Kuswandari,napitupulucici@ud.co.id,(0697) 900 4990,30-12-23,inactive
+759,Lili Hasanah,mhutapea@gmail.com,(026) 390 0363,15/03/2025,inactive
+"760,""Hasim Permadi, S.I.Kom"",jinawi36@gmail.com,+62-049-914-8973,15-02-24,banned"
+"761,""Gara Pradana, S.Sos"",bagyasuryono@pt.org,+62 (00) 503 7136,05-06-23,Active"
+762,Keisha Iswahyudi,esitorus@cv.org,(0356) 503-0867,26/10/2024,Active
+763,Ani Widodo,huwais@hotmail.com,(0834) 806-6478,10/10/2025,Active
+764,Joko Kurniawan,imam13@gmail.com,+62 (413) 039-3923,2025-07-21,aktive
+"765,""Zaenab Padmasari, S.Psi"",jayaoktaviani@yahoo.com,+62 (62) 553-8334,16/01/2025,active"
+"766,""Puti Cici Rahayu, S.Pt"",kwijayanti@perum.ponpes.id,+62 (016) 641-0671,2025-04-05,aktive"
+767,Ir. Harjaya Yulianti,samiahsuryatmi@hotmail.com,+62 (0547) 404 7075,19-08-24,aktive
+"768,""H. Bahuwarna Firmansyah, M.TI."",aslijan54@gmail.com,+62-025-742-9500,10-05-23,Active"
+769,Taufan Manullang,jastuti@yahoo.com,+62-085-830-2187,21-04-25,Active
+"770,""R.A. Michelle Kusmawati, S.Farm"",salimah92@ud.mil.id,+62-0149-749-8337,11/09/2024,aktive"
+771,Sutan Emas Padmasari,ajenggunawan@cv.mil.id,+62 (611) 159 7289,22/01/2026,inactive
+772,Ghaliyati Wijaya,kuntharalailasari@pt.web.id,+62-0078-020-3302,2026-04-07,active
+773,Padmi Maryadi,ekahassanah@pt.int,(032) 078-1183,31-01-25,Active
+"774,""R. Iriana Hutagalung, S.Pd"",prabowopuspita@yahoo.com,+62 (47) 645 6179,2023-01-31,banned"
+"775,""Endra Zulkarnain, M.Ak"",unababan@ud.mil,+62 (87) 969 0160,2025-10-11,banned"
+"776,""Sutan Harsana Rahmawati, M.Farm"",qhandayani@pd.desa.id,082 666 3356,24-09-25,aktive"
+777,Dalima Sihombing,opunggunawan@perum.ac.id,(0292) 395 3573,2024-01-16,inactive
+"778,""Dr. Cornelia Hassanah, S.Sos"",catursusanti@yahoo.com,+62-442-060-2272,2023-04-26,active"
+"779,""R. Kurnia Agustina, S.Gz"",kriyanti@yahoo.com,+62 (0814) 924 5857,25/01/2023,inactive"
+780,Jarwadi Irawan,carlaastuti@cv.sch.id,+62 (294) 019-7110,24/05/2025,aktive
+"781,""Tgk. Daniswara Permadi, S.IP"",warsitamandasari@hotmail.com,+62 (0686) 100-6976,07-06-24,banned"
+"782,""R. Indah Purwanti, S.T."",kpudjiastuti@cv.web.id,0853466624,12-12-25,active"
+"783,""Raisa Handayani, S.Psi"",saptononasrullah@yahoo.com,(0463) 922 7562,08/06/2025,banned"
+"784,""Melinda Dabukke, S.Kom"",legausada@hotmail.com,+62 (94) 020 5885,04/08/2023,aktive"
+785,Mila Hastuti,wacanagangsa@pt.net.id,+62 (021) 269-0901,2023-08-09,Active
+786,Daru Lailasari,xnapitupulu@hotmail.com,+62 (0867) 909-2790,24/06/2024,aktive
+"787,""dr. Elon Saputra, S.Farm"",winarsihenteng@yahoo.com,+62-53-806-9917,2024-12-31,Active"
+788,Ani Wulandari,ymandala@yahoo.com,+62 (062) 106-9953,02-09-24,active
+789,Omar Maheswara,kusuma18@pt.net,+62 (838) 728 7844,21/08/2025,Active
+"790,""dr. Jasmani Hidayanto, S.IP"",waluyoihsan@pt.edu,+62 (014) 007-6062,2024-01-05,inactive"
+"791,""Sabar Mandasari, S.Gz"",jailanikemba@hotmail.com,+62 (96) 509 8932,03-09-24,active"
+"792,""Ajeng Nurdiyanti, S.Kom"",cawisono73@gmail.com,(0896) 635-5042,2025-09-20,aktive"
+"793,""H. Hardi Saefullah, S.Farm"",dharyanti@pt.my.id,+62 (021) 892 6776,29-01-26,banned"
+"794,""Elisa Astuti, M.Kom."",bakianto57@yahoo.com,0896531011,30/07/2025,banned"
+795,Emong Melani,permadijarwadi@perum.gov,+62-093-231-3935,16/04/2025,aktive
+796,R.M. Pandu Yulianti,balapati39@hotmail.com,+62-507-628-0082,2024-06-30,aktive
+797,Safina Latupono,ajimatsafitri@perum.net.id,087 655 5942,02/12/2025,active
+798,Kartika Saptono,usadaasirwada@pt.sch.id,+62-0488-361-0936,02/10/2023,inactive
+799,Tgk. Cornelia Ardianto,paulin05@gmail.com,+62 (0182) 052 6861,23-01-25,banned
+800,Fitriani Firgantoro,paimanwacana@hotmail.com,+62 (0253) 943-9757,2026-01-31,inactive
+"801,""Umay Tamba, S.Gz"",piawidodo@perum.mil.id,+62-046-903-3885,29/06/2023,banned"
+802,Ajimat Pradipta,darsirahpertiwi@hotmail.com,(0470) 240 4915,16/11/2024,inactive
+803,Yoga Tampubolon,januarkuncara@yahoo.com,0826233063,09/11/2023,aktive
+804,Nadine Laksita,balapati39@hotmail.com,+62-69-911-7298,21/01/2023,inactive
+805,H. Ajimin Susanti,jyolanda@gmail.com,(034) 395 0520,15/07/2024,banned
+"806,""Tgk. Luhung Wastuti, M.Ak"",prayogamakuta@yahoo.com,+62 (863) 024 3966,2024-05-12,banned"
+807,Alika Uwais,putrinasyidah@pd.org,+62 (088) 641-9263,25/01/2026,Active
+"808,""Gilang Novitasari, S.Gz"",galuh89@pd.web.id,+62 (041) 635-4641,17/05/2025,Active"
+809,Zizi Puspita,laksanapurnawati@perum.or.id,+62 (0588) 455-3529,28-09-23,inactive
+810,Banawi Napitupulu,ywidiastuti@ud.com,+62 (031) 322 7221,23-01-24,active
+811,Cut Kasiyah Mangunsong,jailanijuli@pt.org,0814776888,10/04/2026,aktive
+812,Lintang Fujiati,zanggraini@hotmail.com,+62 (661) 764-1591,08-09-23,aktive
+813,Lili Hutagalung,prakasanabila@gmail.com,+62-0319-663-0994,2024-10-28,inactive
+814,Aslijan Zulaika,gprasetya@ud.mil.id,+62 (0789) 894 2874,2025-12-27,aktive
+815,Ir. Intan Hutasoit,wnugroho@pd.web.id,+62 (0522) 500-3457,2024-04-30,Active
+"816,""Rafi Farida, S.Psi"",tfujiati@gmail.com,+62 (451) 390 2175,2025-03-05,Active"
+817,Luwar Saptono,ifanugroho@gmail.com,+62 (068) 984 0884,18/01/2025,aktive
+818,Rahmi Hutapea,eminmelani@hotmail.com,+62-234-922-7196,27-12-25,aktive
+819,H. Okta Uyainah,xhariyah@yahoo.com,+62 (48) 299-9325,2023-10-21,inactive
+820,Jessica Hakim,xhakim@pt.id,087 778 1624,2024-03-05,inactive
+821,Kadir Suartini,kenarisihombing@pt.biz.id,+62 (080) 527-3907,2025-10-08,active
+"822,""Farhunnisa Nugroho, M.Pd"",jelita65@hotmail.com,(0296) 752-6478,03-09-25,banned"
+"823,""Ayu Marbun, S.Ked"",elvina74@hotmail.com,+62-001-286-8808,14-06-23,aktive"
+824,Bella Melani,cengkal55@gmail.com,+62 (619) 323-6302,2025-01-10,inactive
+825,Rama Wijayanti,palastritalia@yahoo.com,+62-28-383-0008,2024-08-03,inactive
+"826,""Kawaca Dongoran, S.Ked"",hutagalungkamila@gmail.com,+62 (94) 521 7700,10-01-24,aktive"
+827,Azalea Winarsih,inahalimah@ud.org,+62 (400) 997 6975,2024-01-13,aktive
+828,R.A. Elvina Mulyani,waluyo63@pd.com,+62 (0525) 045 6287,2023-01-26,banned
+829,Jabal Winarsih,ntamba@hotmail.com,(052) 261 2204,19-02-25,Active
+830,Dinda Rahayu,gaduh25@yahoo.com,+62 (094) 860-5470,28-03-25,inactive
+831,Latif Hariyah,rahayu33@gmail.com,+62 (786) 259-8121,14/01/2024,banned
+832,Satya Palastri,verapurnawati@yahoo.com,+62-0742-671-6098,23-06-25,active
+833,Rudi Lazuardi,ldamanik@cv.web.id,+62 (05) 135-5571,21-07-24,aktive
+834,Anggabaya Utama,nurdiyantiwadi@yahoo.com,(0829) 249-4211,05-07-25,active
+"835,""Puti Jelita Wulandari, M.Pd"",estiawanlaksita@hotmail.com,+62-024-252-1787,2025-04-05,banned"
+836,Eka Wulandari,jayayulianti@hotmail.com,(0497) 787 1334,07/03/2025,inactive
+837,Ilsa Halimah,dwibowo@yahoo.com,+62 (256) 092-2656,2024-02-06,active
+838,Kezia Tampubolon,hadiwibisono@hotmail.com,+62 (871) 315 7006,09/02/2026,banned
+839,Lutfan Sitompul,dwaluyo@hotmail.com,+62 (33) 846 0203,2025-04-22,aktive
+840,Nadia Prayoga,natsirbaktianto@pt.org,(091) 456 7489,02/08/2025,banned
+841,Dt. Taufik Mansur,cakrajiya88@pt.net,+62 (026) 911-6784,31-12-24,active
+"842,""Zulfa Mandala, S.Pd"",gawatiyuniar@hotmail.com,+62 (74) 271-3357,26-01-23,inactive"
+843,R. Widya Nainggolan,hidayatcakrajiya@pt.my.id,+62 (0314) 506 6365,25-02-23,banned
+"844,""dr. Laswi Firgantoro, S.Pd"",mulyonopratama@cv.biz.id,+62-093-157-1408,25/01/2025,aktive"
+845,dr. Karja Hardiansyah,lala37@cv.net,+62 (88) 528 7698,03/07/2025,banned
+846,Endah Anggraini,raden08@pt.net.id,+62 (61) 129 6051,10/02/2025,banned
+"847,""Tania Sudiati, S.I.Kom"",ellanasyidah@pd.or.id,+62 (878) 331 3488,01/03/2025,aktive"
+"848,""Iriana Hartati, S.E.I"",safinasiregar@cv.biz.id,(0454) 069-6216,2023-08-30,inactive"
+"849,""Drs. Latif Winarsih, S.Kom"",umayhasanah@gmail.com,+62 (0928) 103-9611,2025-02-03,inactive"
+"850,""Restu Damanik, S.Pt"",anggrainidevi@gmail.com,+62-687-985-4760,2026-01-04,aktive"
+851,Marsudi Suryatmi,uyainahjasmani@ud.co.id,+62-741-950-5163,2023-04-26,active
+"852,""Malik Wastuti, M.TI."",nababansaadat@gmail.com,+62 (034) 220-1800,2026-02-08,banned"
+"853,""R.A. Lili Pangestu, S.H."",permadidanang@yahoo.com,(0781) 717 0933,12-07-25,aktive"
+854,Dimas Ramadan,adikara17@hotmail.com,+62-157-022-3672,24-12-24,active
+855,Cinta Palastri,karimaniswahyudi@gmail.com,+62 (080) 324-6148,08/09/2025,banned
+856,Dt. Ganjaran Nababan,ynurdiyanti@hotmail.com,(0566) 111-6762,08-03-25,aktive
+857,Legawa Prasasta,umarirawan@perum.ac.id,+62 (0074) 389 3697,31-01-23,Active
+858,Gangsar Prakasa,nkusumo@yahoo.com,+62 (001) 647 7799,25/06/2024,aktive
+859,Mala Zulaika,winarnomariadi@perum.biz.id,(022) 741 3169,16/02/2023,aktive
+860,Hj. Carla Sihombing,jaeman17@cv.mil,+62-543-290-3821,20/04/2024,inactive
+861,Asirwada Winarno,edison76@yahoo.com,+62 (0409) 800-9783,15-09-24,banned
+"862,""Qori Usamah, S.Pd"",irawanfarhunnisa@cv.web.id,+62-0413-182-1510,02-11-25,Active"
+"863,""Galar Rahimah, M.Farm"",ewijaya@perum.go.id,+62-015-687-2466,2024-09-11,Active"
+864,Farhunnisa Palastri,xsusanti@yahoo.com,+62 (159) 438 1527,2026-01-31,aktive
+"865,""Jessica Agustina, M.Farm"",tgunarto@gmail.com,(099) 355 9732,23/01/2025,Active"
+"866,""Umar Gunawan, M.Pd"",vino89@yahoo.com,+62-799-998-3868,2026-01-23,active"
+"867,""Maimunah Hasanah, S.Ked"",uusada@ud.ponpes.id,+62-044-846-0629,2023-11-10,inactive"
+868,Perkasa Firgantoro,gsudiati@ud.co.id,+62-070-052-3811,2024-01-21,banned
+"869,""Ir. Damu Sihombing, S.T."",labuhpermata@yahoo.com,+62-0077-138-4201,2025-01-21,inactive"
+"870,""T. Jaga Uwais, S.H."",naradi47@pd.mil.id,+62 (31) 589-3252,2024-08-20,inactive"
+871,Cakrajiya Natsir,ridwan84@hotmail.com,+62 (00) 396-5585,31-03-26,inactive
+872,Candrakanta Siregar,emas56@perum.com,+62 (09) 669-3704,13-06-25,aktive
+873,Ayu Mahendra,suryatmimujur@perum.ac.id,+62-0190-625-5593,2025-06-10,active
+874,Galiono Prakasa,simanjuntakreza@yahoo.com,+62 (096) 436-6779,18-10-25,Active
+"875,""Yunita Prasetya, S.IP"",setiawandagel@yahoo.com,+62 (011) 169-3637,2025-10-13,Active"
+"876,""drg. Amelia Pradana, M.Ak"",galihhasanah@ud.int,+62 (0605) 454 1173,2023-10-20,inactive"
+"877,""Johan Tamba, S.Ked"",pertiwimarsito@ud.mil,+62 (31) 776 8078,23/05/2023,banned"
+878,Eja Rahmawati,pangestuvero@perum.net.id,(0778) 011-0018,2024-05-20,active
+"879,""Puti Rahmi Yolanda, S.T."",luhung15@yahoo.com,0886479766,2024-09-19,inactive"
+"880,""Zizi Wahyuni, M.TI."",hastuticici@yahoo.com,+62-020-438-5053,2025-07-01,Active"
+"881,""dr. Harsaya Puspita, S.IP"",jaswadiyuniar@ud.edu,(0976) 710-5891,03/01/2023,active"
+882,Ana Hasanah,aprasetya@cv.go.id,+62 (0444) 720 8933,2024-12-14,Active
+883,Amalia Suryatmi,ana76@gmail.com,086 106 7510,13/04/2024,Active
+884,Alambana Waluyo,mangunsongdanuja@gmail.com,(010) 093-3061,2023-01-19,Active
+885,Baktiadi Rahmawati,prasetyakartika@yahoo.com,+62 (0936) 350 7979,13/12/2023,inactive
+886,Candra Hidayat,mulyanainggolan@hotmail.com,+62 (0428) 520-3545,26-03-24,active
+887,Janet Pangestu,rajasazizi@pd.ac.id,+62 (801) 266 8665,2024-03-12,inactive
+888,Ridwan Habibi,melanidiana@perum.mil.id,+62 (14) 842-7524,2024-05-14,active
+889,Dewi Hassanah,prabunovitasari@hotmail.com,(0454) 792-5433,05-06-24,active
+"890,""Sadina Siregar, S.E."",yosef24@pt.desa.id,+62 (243) 872 6011,01/03/2024,banned"
+"891,""drg. Hamzah Hakim, M.TI."",tarihorancatur@ud.ponpes.id,(064) 022 2117,16/12/2025,banned"
+892,Pranawa Najmudin,tprastuti@cv.desa.id,+62 (081) 035 6159,11/04/2024,active
+893,Tari Setiawan,pranowocaraka@perum.my.id,+62 (32) 551-3910,2024-12-28,banned
+894,Jasmani Winarno,carubmarbun@pd.desa.id,+62 (074) 707 8602,06/10/2025,Active
+"895,""R.A. Nova Mulyani, S.Farm"",asmannashiruddin@pd.ac.id,+62-557-863-3203,2023-04-09,aktive"
+896,Adiarja Yuniar,vero83@yahoo.com,+62 (0999) 030 8534,29-09-23,banned
+897,Unjani Wulandari,riyantizaenab@ud.ponpes.id,+62 (892) 027-5792,03-07-24,active
+898,Genta Uwais,hasnasimanjuntak@ud.com,(0300) 610 8659,02-02-26,active
+899,Paulin Saefullah,agusprakasa@pt.mil.id,084 343 8679,18/01/2024,aktive
+900,Cindy Mansur,prayogaendra@pd.biz.id,+62 (194) 843 7598,04-07-23,Active
+"901,""Hj. Zahra Narpati, M.TI."",jelita36@pd.web.id,085 921 1367,04/03/2024,banned"
+"902,""Halima Wulandari, S.E.I"",endahnababan@cv.id,+62-827-890-3825,29/03/2026,banned"
+903,Tgk. Clara Sitompul,irwan18@cv.or.id,(0936) 059-4532,2026-01-27,banned
+"904,""Bagiya Permadi, M.TI."",agustinaintan@gmail.com,+62 (098) 688-3472,06-08-25,aktive"
+905,Tgk. Wahyu Yuliarti,enteng00@cv.go.id,+62-048-082-3093,20-12-24,Active
+906,Rahmi Kusumo,pangeranwaskita@hotmail.com,+62 (044) 463 8879,15/10/2025,aktive
+907,Janet Anggraini,pratamakala@pd.desa.id,(088) 897-6988,02/11/2025,Active
+908,Yuliana Damanik,ltarihoran@hotmail.com,+62 (62) 910 8943,09-11-23,aktive
+909,Bagus Haryanto,aryanibanara@cv.go.id,+62-058-212-0947,2023-11-21,aktive
+910,Darman Simanjuntak,cinthiatarihoran@perum.biz.id,+62 (64) 487-2079,29/11/2025,banned
+911,Ir. Fitriani Waskita,ejaagustina@yahoo.com,+62 (87) 497-5752,2024-02-05,active
+912,Ganda Prasetyo,baktiantonajmudin@cv.or.id,+62 (753) 531 3937,01-08-25,banned
+913,dr. Kayla Haryanto,ipurwanti@ud.co.id,(0111) 668-1740,28/12/2025,banned
+914,Sutan Bakiman Waskita,melanimala@ud.sch.id,(0720) 221 8197,03-12-23,inactive
+915,Hj. Yessi Astuti,nasrullah10@hotmail.com,+62-83-689-6927,26-04-23,banned
+916,Jati Habibi,vkusmawati@hotmail.com,+62-0090-765-3411,25/04/2026,Active
+"917,""R.A. Maya Zulkarnain, S.Sos"",asmadi60@hotmail.com,+62 (0254) 256 3341,03-05-25,Active"
+918,Muhammad Firgantoro,putraprakosa@hotmail.com,+62 (40) 086 8722,2025-06-02,banned
+919,Shakila Palastri,hidayantokalim@pd.com,+62-006-184-2384,2024-11-01,banned
+"920,""Dariati Pangestu, M.Kom."",prasetyasitumorang@hotmail.com,+62 (080) 421 9949,2024-06-11,inactive"
+"921,""T. Luwes Wulandari, S.Sos"",pertiwiradit@cv.web.id,080 626 9262,21/05/2023,Active"
+922,Hj. Paris Hariyah,zaenab32@gmail.com,+62-223-211-3298,06-01-26,inactive
+"923,""Adiarja Tarihoran, S.Farm"",radensamosir@gmail.com,(001) 694 5609,2025-04-26,banned"
+924,Kania Rajata,astutiputi@gmail.com,+62 (092) 621 0702,2023-07-28,Active
+925,Jane Simanjuntak,yadriansyah@hotmail.com,+62 (263) 949 8966,2023-05-02,Active
+926,Cawuk Winarsih,cpudjiastuti@gmail.com,+62 (061) 004-6106,2023-06-29,Active
+927,Karna Kuswoyo,limarlaksita@gmail.com,+62 (0444) 492 0615,2023-02-14,aktive
+928,Tirtayasa Purnawati,leo78@ud.edu,081 510 5396,23/11/2025,active
+929,Irsad Hutasoit,jane01@ud.gov,+62 (058) 627-7683,02-04-26,Active
+930,Cut Elma Widiastuti,randriani@yahoo.com,(062) 804-1150,2025-04-23,active
+931,Puti Dinda Suryono,titin29@yahoo.com,(068) 126 7267,25-01-26,Active
+932,Humaira Farida,opadmasari@yahoo.com,+62 (81) 162 6651,07-02-25,active
+933,Dartono Prasetya,ginawaluyo@hotmail.com,+62-834-126-7723,26-08-23,inactive
+934,Karna Lailasari,laswi21@gmail.com,+62-86-057-1201,2025-11-28,Active
+"935,""dr. Asmadi Permata, S.Psi"",waluyonasyiah@yahoo.com,+62 (016) 651-2150,08/02/2025,inactive"
+936,Jessica Puspita,xsinaga@yahoo.com,+62 (07) 366 8110,2023-07-06,inactive
+937,Bahuraksa Situmorang,jefri31@yahoo.com,+62 (0577) 755-5212,19-09-25,active
+938,Janet Andriani,sudiatihasim@yahoo.com,+62 (0017) 928 6635,2026-03-06,active
+939,Rizki Mandala,swahyudin@pd.sch.id,0805088027,09/08/2023,aktive
+"940,""R. Violet Rajasa, S.E."",edi89@hotmail.com,089 513 6204,24/03/2024,aktive"
+941,Rendy Purwanti,pmaryati@gmail.com,(0168) 916 8202,18/10/2025,Active
+942,Anita Prasetyo,pradiptabudi@gmail.com,+62 (31) 787-3211,2025-12-08,aktive
+943,Ida Sihombing,zalindrahalim@hotmail.com,+62-384-954-7191,02/02/2023,Active
+944,Padmi Dongoran,artawan90@yahoo.com,(0532) 142-3821,13-08-25,aktive
+945,Lili Mandala,septi83@pd.web.id,(015) 058-1468,15-03-23,inactive
+"946,""Ana Pangestu, S.Gz"",kusumoibrani@ud.gov,+62 (697) 456 4385,11/01/2025,Active"
+947,Dartono Pratiwi,dariatisuryatmi@gmail.com,+62-099-159-2344,02-02-25,active
+948,Kania Pudjiastuti,uprakasa@hotmail.com,+62 (666) 670 1739,03-07-23,aktive
+"949,""dr. Prayogo Uyainah, S.Pt"",gaimanharyanti@hotmail.com,+62 (0381) 800-0738,2024-08-31,inactive"
+950,Amalia Wastuti,gangsar96@cv.desa.id,+62 (064) 483 7250,03/06/2023,banned
+951,Murti Prayoga,jarwa46@ud.web.id,+62 (99) 868-3924,15-12-25,Active
+952,Ir. Citra Hariyah,labuh11@perum.web.id,(0887) 018 2964,18-04-23,active
+953,Simon Latupono,marbunnasab@cv.com,(0569) 120-4277,2024-01-11,aktive
+"954,""Dr. Tania Wasita, S.T."",galihjailani@hotmail.com,(049) 800-7133,24-01-26,aktive"
+955,Salimah Hidayat,rosman59@yahoo.com,085 516 5041,17/09/2023,banned
+956,Shakila Irawan,wsantoso@yahoo.com,+62 (129) 373-1864,2023-12-12,Active
+"957,""Dr. Utama Prasetyo, M.Ak"",vzulaika@cv.net.id,+62 (864) 231 2619,26/08/2025,banned"
+958,Dacin Hutasoit,nataliamandasari@cv.net,(0443) 110 1782,2024-04-23,active
+959,Lasmono Widodo,omegantara@gmail.com,(0297) 533-9917,10/04/2026,inactive
+960,R.A. Iriana Habibi,rahmansihotang@ud.ac.id,(0628) 845 5474,20-10-25,Active
+"961,""Dr. Oliva Budiyanto, S.Sos"",pmelani@gmail.com,+62-064-065-9394,01-02-23,aktive"
+962,Reza Najmudin,utamiarta@yahoo.com,+62-080-792-4938,03-10-24,inactive
+963,Dirja Narpati,jayengfirmansyah@yahoo.com,+62-289-973-0939,14-07-23,active
+964,Salsabila Mayasari,fsitumorang@yahoo.com,087 765 1724,2023-06-21,aktive
+965,Tgk. Halima Prasetyo,adika21@cv.ponpes.id,+62 (0147) 925 0312,15/09/2025,aktive
+966,Vivi Kurniawan,raina84@perum.sch.id,+62 (0280) 898 3106,2024-07-10,Active
+967,Hani Saefullah,mandasariulva@pt.com,+62 (0537) 470-8343,2024-12-08,inactive
+968,Tantri Purwanti,mangunsongendah@pd.int,087 655 4565,21/02/2023,active
+969,Halim Mandala,martaka05@hotmail.com,+62 (0277) 958-7520,05-02-25,Active
+970,Faizah Pratiwi,santosocinthia@hotmail.com,+62-360-923-6031,2024-06-03,aktive
+971,Ibrahim Yolanda,ciaobellapalastri@cv.co.id,+62 (64) 498-8062,09-10-25,active
+972,T. Endra Sitorus,agustinaadikara@ud.co.id,+62-0249-567-1130,2023-10-29,banned
+973,Putri Usamah,kasim72@pt.com,(0935) 455 9285,22/07/2023,aktive
+974,Umi Utama,hardianto@pt.co.id,080 608 5509,03-04-24,inactive
+975,Eva Simbolon,kurniapranowo@cv.org,+62 (097) 070-6602,02-01-25,aktive
+976,Melinda Puspasari,usamahlanang@perum.mil,+62 (052) 879-5869,24/06/2024,active
+"977,""Vera Uyainah, S.Gz"",qnashiruddin@pd.my.id,+62 (0905) 053-4735,2025-04-26,Active"
+"978,""Galur Hutagalung, M.Pd"",sakura52@hotmail.com,+62 (75) 940-2565,06-03-25,banned"
+"979,""R.A. Juli Hakim, M.TI."",perkasa22@gmail.com,+62 (0891) 003-2006,23/02/2023,aktive"
+980,Prayoga Mansur,tirtanasyiah@gmail.com,+62 (35) 769 8035,19-06-24,inactive
+981,Karna Purnawati,nadineuwais@yahoo.com,+62 (0194) 834 8138,15-03-25,inactive
+982,Kamaria Hutasoit,yuniwibisono@pd.id,083 730 1148,22/05/2023,banned
+"983,""Olga Yuniar, S.Pt"",julialestari@gmail.com,(0584) 158-9849,17/01/2023,Active"
+984,Waluyo Nurdiyanti,parmanyuniar@cv.net.id,+62-093-763-9101,16/08/2024,aktive
+985,Elvin Riyanti,wuyainah@ud.sch.id,+62 (0461) 406 0684,2024-11-09,Active
+986,Kawaya Aryani,ssihotang@ud.gov,(0966) 209-0931,2025-10-28,active
+987,Lutfan Santoso,legawa87@yahoo.com,+62 (626) 899-2889,06/07/2023,banned
+988,Sari Usamah,fitriani33@ud.org,+62 (0732) 309-0908,04/04/2026,aktive
+989,Ajeng Kusmawati,kadirnatsir@pd.net.id,(078) 881 1983,06-02-24,Active
+990,Asmuni Zulkarnain,mtamba@hotmail.com,(0053) 280 6104,11-10-25,active
+991,Fathonah Novitasari,kuntharapertiwi@yahoo.com,+62 (422) 030-7500,16-08-25,banned
+992,Enteng Wijayanti,wulandaribakiono@cv.edu,(0709) 939 5986,19/12/2025,aktive
+993,Syahrini Mustofa,kbudiyanto@yahoo.com,0822021862,31/03/2023,aktive
+994,Cakrabuana Mahendra,eva64@gmail.com,0833099213,30-01-23,active
+995,Among Nainggolan,manullangraden@yahoo.com,+62 (09) 238 6689,14/11/2024,inactive
+996,Novi Wulandari,dirjawastuti@pt.web.id,+62 (099) 287-5534,19/09/2025,inactive
+997,R. Dodo Putra,mangunsonganom@pd.co.id,(0361) 381-9484,2023-06-15,aktive
+998,Asmuni Waskita,iswahyudinabila@hotmail.com,0807097158,23/10/2025,active
+"999,""Harjasa Samosir, M.M."",jasminmegantara@cv.my.id,+62-736-192-8451,25-08-25,inactive"
+1000,Satya Hartati,hendrisihombing@gmail.com,+62 (80) 822-3147,22-12-25,active

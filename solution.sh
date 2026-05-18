@@ -1,0 +1,99 @@
+cat << 'EOF' > solution.sh
+#!/bin/bash
+
+# 1. Pastikan folder output bersih
+mkdir -p output
+rm -f output/*
+
+# 2. Pre-processing: Hapus \r (Windows) & Rapikan tanda koma di dalam gelar nama
+tr -d '\r' < data.csv | sed -E \
+    -e 's/""([^"]+), *([^"]+)""/\1 \2/g' \
+    -e 's/^"//' \
+    -e 's/"$//' > data_clean.csv
+
+# 3. Pemrosesan Data Utama dengan Awk
+awk -F, -v OFS=',' '
+BEGIN {
+    converted_file = "output/converted-data.csv"
+    gmail_file = "output/gmail-customers.csv"
+    status_file = "output/status-count.txt"
+    
+    printf "id,nama,email,no_hp,tanggal_daftar,status\n" > converted_file
+    printf "id,nama,email,no_hp,tanggal_daftar,status\n" > gmail_file
+}
+
+{
+    # Abaikan baris kosong
+    if (NF < 6) next
+    
+    # SUPER-FILTER: Blokir baris judul (header) sebandel apa pun
+    if (tolower($1) == "id" || tolower($6) == "status") next
+    
+    id_cust = $1
+    nama = $2
+    email = $3
+    no_hp = $4
+    tanggal_daftar = $5
+    status = $6
+    
+    # --- 1. Normalisasi Status ---
+    gsub(/^[ \t]+|[ \t]+$/, "", status)
+    status = tolower(status)
+    if (status == "aktive" || status == "active") {
+        status = "active"
+    }
+    
+    status_count[status]++
+    
+    # --- 2. Normalisasi Tanggal Daftar ---
+    gsub(/^[ \t]+|[ \t]+$/, "", tanggal_daftar)
+    tgl = tanggal_daftar
+    
+    if (tgl ~ /\//) {
+        split(tgl, p, "/")
+        tgl = sprintf("%04d-%02d-%02d", p[3], p[2], p[1])
+    } else if (tgl ~ /-/) {
+        split(tgl, p, "-")
+        if (length(p[1]) == 2 && length(p[3]) == 2) {
+            tgl = sprintf("20%02d-%02d-%02d", p[3], p[2], p[1])
+        } else if (length(p[1]) == 2 && length(p[3]) == 4) {
+            tgl = sprintf("%04d-%02d-%02d", p[3], p[2], p[1])
+        } else if (length(p[1]) == 4) {
+            tgl = sprintf("%04d-%02d-%02d", p[1], p[2], p[3])
+        }
+    }
+    
+    # Susun kembali menjadi baris CSV
+    row_new = id_cust "," nama "," email "," no_hp "," tgl "," status
+    print row_new > converted_file
+    
+    # --- 3. Filter Email Gmail ---
+    clean_email = tolower(email)
+    gsub(/^[ \t]+|[ \t]+$/, "", clean_email)
+    if (clean_email ~ /@gmail\.com$/) {
+        print row_new > gmail_file
+    }
+}
+
+END {
+    # Tulis hasil perhitungan dan urutkan secara alfabetis (A-Z)
+    for (st in status_count) {
+        if (st != "") {
+            print st ": " status_count[st] | "sort > " status_file
+        }
+    }
+}
+' data_clean.csv
+
+# 4. Hapus file temporary
+rm -f data_clean.csv
+
+echo "Proses selesai!"
+EOF
+
+# Eksekusi ulang scriptnya
+chmod +x solution.sh
+./solution.sh
+
+# Cek hasilnya langsung
+cat output/status-count.txt
